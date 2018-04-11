@@ -1,0 +1,11 @@
+.Home {
+  margin: 16px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 16px;
+  grid-auto-rows: minmax(100px, auto);
+}
+
+.Map {
+  grid-column: 1/3;
+}

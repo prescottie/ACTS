@@ -1,0 +1,37 @@
+[
+  {
+    "ID": "S",
+    "Name": "Source - Rwera",
+    "Description": "Completed in 2016, the Rwera source provides safe water for 4000.",
+    "Latitude": -0.95557,
+    "Longitude": 30.3200284262995
+  },
+  {
+    "ID": "B",
+    "Name": "Break Pressure Tank - Rwera",
+    "Description": "Completed in 2016, the Rwera break pressure tank relieves pressure on the lines when there are steep elevation drops.",
+    "Latitude": -0.972666,
+    "Longitude": 30.3249620163111
+  },
+  {
+    "ID": "R",
+    "Name": "Resevoir - Kasangari",
+    "Description": "Completed 2009-2011, Kasangari reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": 0.463943749,
+    "Longitude": 30.12348598
+  },
+  {
+    "ID": "SED",
+    "Name": "Sediment Tank - Rubingo",
+    "Description": "Completed 2001-2007, the Rubingo sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
+    "Latitude": -0.83299,
+    "Longitude": 30.4943258388256
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand, Top Care Preparatory School - Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.96563783,
+    "Longitude": 30.39992848
+  }
+]
