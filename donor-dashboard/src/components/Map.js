@@ -1,53 +1,67 @@
-import React from "react"
-import { compose, withProps } from "recompose"
-import { withScriptjs, withGoogleMap, GoogleMap, Marker } from "react-google-maps"
+import React from "react";
+import {Map as MapEl, InfoWindow, Marker, GoogleApiWrapper} from 'google-maps-react';
 
-const MyMapComponent = compose(
-  withProps({
-    googleMapURL: "https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places",
-    loadingElement: <div style={{ height: `100%` }} />,
-    containerElement: <div style={{ height: `400px` }} />,
-    mapElement: <div style={{ height: `100%` }} />,
-  }),
-  withScriptjs,
-  withGoogleMap
-)((props) =>
-  <GoogleMap
-    defaultZoom={8}
-    defaultCenter={{ lat: -0.390580, lng: 30.181807 }}
-  >
-    {props.isMarkerShown && <Marker position={{ lat: -0.390580, lng: 30.181807}} onClick={props.onMarkerClick} />}
-  </GoogleMap>
-);
+class Map extends React.Component {
+  constructor(props){
+    super(props);
+  }
 
-export default class Map extends React.Component {
   state = {
-    isMarkerShown: false,
-  }
-
+    showingInfoWindow: false,
+    activeMarker: {},
+    selectedPlace: {},
+  };
+  
+ 
+  onMarkerClick = (props, marker, e) =>
+    this.setState({
+      selectedPlace: props,
+      activeMarker: marker,
+      showingInfoWindow: true
+    });
+ 
+  onMapClicked = (props) => {
+    if (this.state.showingInfoWindow) {
+      this.setState({
+        showingInfoWindow: false,
+        activeMarker: null
+      })
+    }
+  };
+  
   componentDidMount() {
-    this.delayedShowMarker()
-  }
-
-  delayedShowMarker = () => {
-    setTimeout(() => {
-      this.setState({ isMarkerShown: true })
-    }, 3000)
-  }
-
-  handleMarkerClick = () => {
-    this.setState({ isMarkerShown: false })
-    this.delayedShowMarker()
+    this.props.fetchProjects();
   }
 
   render() {
+    const {projects} = this.props;
+    const markers = projects.map((p, i) => {
+      return (
+          <Marker 
+            data-proj-type={p['ID']}
+            name={p.Name}
+            onClick={this.onMarkerClick}
+            position={{lat: p.Latitude, lng: p.Longitude}}
+          />
+
+      );
+    });
+
     return (
-      <div className='Map'>
-        <MyMapComponent
-          isMarkerShown={this.state.isMarkerShown}
-          onMarkerClick={this.handleMarkerClick}
-        />
-      </div>
+      <MapEl google={this.props.google} zoom={this.props.zoom} initialCenter={this.props.center} onClick={this.onMapClicked}>
+        {markers}
+        <InfoWindow
+          marker={this.state.activeMarker}
+          visible={this.state.showingInfoWindow}>
+            <div>
+              <h1>{this.state.selectedPlace.name}</h1>
+            </div>
+        </InfoWindow>
+      </MapEl>
     )
   }
 }
+
+export default GoogleApiWrapper({
+  apiKey: 'AIzaSyAHvWhmOxhlD6zVfTQAq_Wva3bjKgaTL2w'
+})(Map);
