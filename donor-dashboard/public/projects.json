@@ -1,10 +1,32 @@
+
 [
   {
     "ID": "S",
-    "Name": "Source - Rwera",
-    "Description": "Completed in 2016, the Rwera source provides safe water for 4000.",
-    "Latitude": -0.95557,
-    "Longitude": 30.3200284262995
+    "Name": "Source - Kishororo",
+    "Description": "Completed in 2014, the Kishororo source provides safe water for 5,547.",
+    "Latitude": -0.968651776,
+    "Longitude": 30.3822562
+  },
+  {
+    "ID": "B",
+    "Name": "Break Pressure Tank - Nyakyera",
+    "Description": "Completed in 2010, the Nyakyera break pressure tank relieves pressure on the lines when there are steep elevation drops.",
+    "Latitude": -0.890253,
+    "Longitude": 30.3899905122854
+  },
+  {
+    "ID": "B",
+    "Name": "Break Pressure Tank - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo break pressure tanks relieve pressure on the lines when there are steep elevation drops.",
+    "Latitude": -0.773801,
+    "Longitude": 30.4928893755998
+  },
+  {
+    "ID": "B",
+    "Name": "Break Pressure Tank - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo break pressure tanks relieve pressure on the lines when there are steep elevation drops.",
+    "Latitude": -0.743462,
+    "Longitude": 30.4776967799496
   },
   {
     "ID": "B",
@@ -15,6 +37,160 @@
   },
   {
     "ID": "R",
+    "Name": "Reservoir - Buhanama",
+    "Description": "Completed in 2014, Buhanama reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.741474701,
+    "Longitude": 30.30198737
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Buhanama",
+    "Description": "Completed in 2014, Kasanda reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.953349652,
+    "Longitude": 30.41623416
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Bujaga",
+    "Description": "Completed in 1998, the Bujaga reservoir holds the water collected from the source until it is needed.",
+    "Latitude": -0.737239,
+    "Longitude": 30.3730306384857
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Kasanda",
+    "Description": "Completed in 2014, Kasanda reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.953349652,
+    "Longitude": 30.41623416
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Kataraka",
+    "Description": "Completed in 2016, Kataraka reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.858769,
+    "Longitude": 30.3644600992706
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Kintu",
+    "Description": "Completed in 2015, Kintu reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.73108,
+    "Longitude": 30.4391946366135
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Kintu",
+    "Description": "Completed in 2015, Kintu reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.733913,
+    "Longitude": 30.4477944090395
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.761849,
+    "Longitude": 30.3597644615469
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.760109,
+    "Longitude": 30.3513711824843
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Nyakyera",
+    "Description": "Completed in 2010, the Nyakyera reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.904097,
+    "Longitude": 30.4070578755622
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Nyakyera",
+    "Description": "Completed in 2010, the Nyakyera reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.923092,
+    "Longitude": 30.4382364533252
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Nyamugandika, Kishororo",
+    "Description": "Completed in 2014, Kishororo reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.969621749,
+    "Longitude": 30.39761792
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Nyarubumba",
+    "Description": "Completed in 2009, Nyarubumba reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.852863,
+    "Longitude": 30.3939667499639
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.742136,
+    "Longitude": 30.48205222495
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.79163,
+    "Longitude": 30.4834060324205
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.77372,
+    "Longitude": 30.4931138958988
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.765044,
+    "Longitude": 30.5050340003369
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.764962,
+    "Longitude": 30.4878124990443
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.832999,
+    "Longitude": 30.4943168540756
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.788408,
+    "Longitude": 30.5037811867933
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
+    "Latitude": -0.788471,
+    "Longitude": 30.503736254069
+  },
+  {
+    "ID": "R",
+    "Name": "Reservoir - Rwera",
+    "Description": "Completed in 2016, the Rwera reservoir holds the water collected from the source until it is needed.",
+    "Latitude": -0.972512,
+    "Longitude": 30.3245042505548
+  },
+  {
+    "ID": "R",
     "Name": "Resevoir - Kasangari",
     "Description": "Completed 2009-2011, Kasangari reservoirs hold the water collected from the source until it is needed.",
     "Latitude": 0.463943749,
@@ -22,10 +198,4301 @@
   },
   {
     "ID": "SED",
+    "Name": "Sed Tank - Buhanama",
+    "Description": "Completed in 2014, the Buhanama sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
+    "Latitude": -0.734750456,
+    "Longitude": 30.30103981
+  },
+  {
+    "ID": "SED",
+    "Name": "Sediment Tank - Kasangari",
+    "Description": "Completed in 2009-2011, the Kasangari sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
+    "Latitude": 0.463979826,
+    "Longitude": 30.12332441
+  },
+  {
+    "ID": "SED",
+    "Name": "Sediment Tank - Kataraka",
+    "Description": "Completed in 2016, the Kataraka sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
+    "Latitude": -0.858091,
+    "Longitude": 30.3898062306115
+  },
+  {
+    "ID": "SED",
+    "Name": "Sediment Tank - Kinyamufura",
+    "Description": "Completed in 2008, the Kinyamufura sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
+    "Latitude": -0.756654,
+    "Longitude": 30.3596239680333
+  },
+  {
+    "ID": "SED",
+    "Name": "Sediment Tank - Nyakyera",
+    "Description": "Completed in 2010, the Nyakyera sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
+    "Latitude": -0.858553,
+    "Longitude": 30.3910718677183
+  },
+  {
+    "ID": "SED",
+    "Name": "Sediment Tank - Kishororo",
+    "Description": "Completed in 2014, the Kishororo sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
+    "Latitude": -0.972470149,
+    "Longitude": 30.38791877
+  },
+  {
+    "ID": "SED",
     "Name": "Sediment Tank - Rubingo",
     "Description": "Completed 2001-2007, the Rubingo sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
     "Latitude": -0.83299,
     "Longitude": 30.4943258388256
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Buhanama",
+    "Description": "Completed in 2014, the Buhanama source provides safe water for 9,390.",
+    "Latitude": -0.734623886,
+    "Longitude": 30.30095909
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Buhanama",
+    "Description": "Completed in 2014, the Kasanda source provides safe water for 4366.",
+    "Latitude": -0.953440577,
+    "Longitude": 30.4169524
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Bujaga",
+    "Description": "Completed in 1998, the Bujaga source provides safe water for 20,000.",
+    "Latitude": -0.737338,
+    "Longitude": 30.3728689766053
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Kasanda",
+    "Description": "Completed in 2014, the Kasanda source provides safe water for 4366.",
+    "Latitude": -0.953440577,
+    "Longitude": 30.4169524
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Kasangari",
+    "Description": "Completed 2009-2011, Kasangari sources provide safe water for 2,183.",
+    "Latitude": 0.464052079,
+    "Longitude": 30.1232436
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Kataraka",
+    "Description": "Completed in 2016, Kataraka sources provide safe water for 5,300.",
+    "Latitude": -0.855561,
+    "Longitude": 30.3889370436082
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Kataraka",
+    "Description": "Completed in 2016, Kataraka sources provide safe water for 5,300.",
+    "Latitude": -0.859936,
+    "Longitude": 30.3931180004535
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Kintu",
+    "Description": "Completed in 2015, Kintu sources provide safe water for 11,400.",
+    "Latitude": -0.732909,
+    "Longitude": 30.4450565370189
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Kintu",
+    "Description": "Completed in 2015, Kintu sources provide safe water for 11,400.",
+    "Latitude": -0.736591,
+    "Longitude": 30.4545537255294
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura sources provide safe water for 22,000.",
+    "Latitude": -0.756248,
+    "Longitude": 30.3595075009643
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Nyakyera",
+    "Description": "Completed in 2010, the Nyakyera source provides safe water for 20,000.",
+    "Latitude": -0.86755,
+    "Longitude": 30.4024503918065
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Nyarubumba",
+    "Description": "Completed in 2009, the Nyarubumba source provides safe water for 7,500.",
+    "Latitude": -0.851729,
+    "Longitude": 30.3870452007231
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo sources provide safe water for 25,700.",
+    "Latitude": -0.743606,
+    "Longitude": 30.4776428254613
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo sources provide safe water for 25,700.",
+    "Latitude": -0.762856,
+    "Longitude": 30.4863501717517
+  },
+  {
+    "ID": "S",
+    "Name": "Source - Rwera",
+    "Description": "Completed in 2016, the Rwera source provides safe water for 4000.",
+    "Latitude": -0.95557,
+    "Longitude": 30.3200284262995
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.959135857,
+    "Longitude": 30.39508493
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bagarukayo Memorial School, Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.948197771,
+    "Longitude": 30.39210328
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.747339342,
+    "Longitude": 30.30119378
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.751214777,
+    "Longitude": 30.29876749
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.751014966,
+    "Longitude": 30.2971786
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.751067476,
+    "Longitude": 30.29444045
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.747510985,
+    "Longitude": 30.28658741
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.74666089,
+    "Longitude": 30.2856094
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.744986745,
+    "Longitude": 30.2819387
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.744944955,
+    "Longitude": 30.27290757
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.746849675,
+    "Longitude": 30.26959379
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.747678701,
+    "Longitude": 30.26582284
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.749491625,
+    "Longitude": 30.26029177
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.752230222,
+    "Longitude": 30.3040187
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.752765201,
+    "Longitude": 30.30687322
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.753579532,
+    "Longitude": 30.30844379
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.753481877,
+    "Longitude": 30.31125382
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.752733144,
+    "Longitude": 30.31343583
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.75103576,
+    "Longitude": 30.31604934
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.751986505,
+    "Longitude": 30.31899342
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.752052947,
+    "Longitude": 30.32411961
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.75362685,
+    "Longitude": 30.32638102
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.749734663,
+    "Longitude": 30.33111462
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.755103533,
+    "Longitude": 30.303191
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.953349652,
+    "Longitude": 30.41623416
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.954051671,
+    "Longitude": 30.41235481
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Buhanama",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.95081514,
+    "Longitude": 30.41112713
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.735956,
+    "Longitude": 30.3722503065451
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.722873,
+    "Longitude": 30.3704174218926
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.719383,
+    "Longitude": 30.380187448943
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.724296,
+    "Longitude": 30.3769435794295
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.729375,
+    "Longitude": 30.3955431890192
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.736893,
+    "Longitude": 30.3842803015747
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.736237,
+    "Longitude": 30.3736237727343
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.735927,
+    "Longitude": 30.384442470442
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.734727,
+    "Longitude": 30.3715148323433
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.723514,
+    "Longitude": 30.3691870764737
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.718994,
+    "Longitude": 30.3802415385414
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.728672,
+    "Longitude": 30.3985782034856
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.740661,
+    "Longitude": 30.3848347373488
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.736852,
+    "Longitude": 30.3752484286035
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.733778,
+    "Longitude": 30.3712550258945
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.722233,
+    "Longitude": 30.3721505325043
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.71894,
+    "Longitude": 30.3803672613785
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.731861,
+    "Longitude": 30.3992317741604
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.744311,
+    "Longitude": 30.3853263857136
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.736266,
+    "Longitude": 30.3766403619292
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.732341,
+    "Longitude": 30.370115664275
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.735237,
+    "Longitude": 30.3786520375209
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.721692,
+    "Longitude": 30.3732461531722
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.720367,
+    "Longitude": 30.3799624366987
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.730525,
+    "Longitude": 30.4007498529285
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.732197,
+    "Longitude": 30.3715701768076
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.73577,
+    "Longitude": 30.3792083634338
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.721439,
+    "Longitude": 30.3737131517507
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.720269,
+    "Longitude": 30.3811475893308
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.731492,
+    "Longitude": 30.4017009827182
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.730715,
+    "Longitude": 30.3709964504103
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.735933,
+    "Longitude": 30.3797559278151
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.720061,
+    "Longitude": 30.3815696741942
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.720961,
+    "Longitude": 30.3745034862833
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.731718,
+    "Longitude": 30.4024191067869
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.728628,
+    "Longitude": 30.3699292875175
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.734686,
+    "Longitude": 30.3787062271007
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.734668,
+    "Longitude": 30.3787241936652
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.720735,
+    "Longitude": 30.3746921528083
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.720594,
+    "Longitude": 30.3820721382484
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.732479,
+    "Longitude": 30.4047260641777
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.733611,
+    "Longitude": 30.3795058968842
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.721394,
+    "Longitude": 30.3748982678371
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.721859,
+    "Longitude": 30.3822599534039
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.731822,
+    "Longitude": 30.4089192678055
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.72422,
+    "Longitude": 30.3714670650005
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.733556,
+    "Longitude": 30.378320830697
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.719869,
+    "Longitude": 30.377628444396
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.721091,
+    "Longitude": 30.3811650754975
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.731706,
+    "Longitude": 30.4115499578979
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.735622,
+    "Longitude": 30.372600643093
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.722297,
+    "Longitude": 30.3740448433704
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.734569,
+    "Longitude": 30.3793168006659
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.733964,
+    "Longitude": 30.4115576388233
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.731569,
+    "Longitude": 30.3783578985769
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.72966,
+    "Longitude": 30.4201792502583
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.732436,
+    "Longitude": 30.3785010427137
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.730619,
+    "Longitude": 30.4224502167449
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.732229,
+    "Longitude": 30.3792732723975
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.731748,
+    "Longitude": 30.4228356401475
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.73019,
+    "Longitude": 30.3840687232485
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.730171,
+    "Longitude": 30.3833235562994
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.737104,
+    "Longitude": 30.3743953713172
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.72458,
+    "Longitude": 30.3695994462067
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Bujaga",
+    "Description": "Completed in 1998, Bujaga tap stands each serve about 175 people.",
+    "Latitude": -0.737212,
+    "Longitude": 30.3731383901199
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kasanda",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.953349652,
+    "Longitude": 30.41623416
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kasanda",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.954051671,
+    "Longitude": 30.41235481
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kasanda",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.95081514,
+    "Longitude": 30.41112713
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kasanda",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.945719004,
+    "Longitude": 30.42485948
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kasanda",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.9499549,
+    "Longitude": 30.43293733
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kasangari",
+    "Description": "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
+    "Latitude": 0.462886902,
+    "Longitude": 30.12432115
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kasangari",
+    "Description": "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
+    "Latitude": 0.459462508,
+    "Longitude": 30.12476233
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kasangari",
+    "Description": "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
+    "Latitude": 0.4590469,
+    "Longitude": 30.12486123
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kasangari",
+    "Description": "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
+    "Latitude": 0.459219873,
+    "Longitude": 30.12803854
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kasangari",
+    "Description": "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
+    "Latitude": 0.463989788,
+    "Longitude": 30.12557729
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kasangari",
+    "Description": "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
+    "Latitude": 0.463601837,
+    "Longitude": 30.12701356
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kasangari",
+    "Description": "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
+    "Latitude": 0.457166275,
+    "Longitude": 30.12196285
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kasangari",
+    "Description": "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
+    "Latitude": 0.455927881,
+    "Longitude": 30.12075163
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.864158,
+    "Longitude": 30.3716299935824
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.858378,
+    "Longitude": 30.3607793177721
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.862993,
+    "Longitude": 30.3591959867273
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.869874,
+    "Longitude": 30.3669753187182
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.874934,
+    "Longitude": 30.3692163606027
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.858817,
+    "Longitude": 30.3549522066566
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.867246,
+    "Longitude": 30.3557005433229
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.869863,
+    "Longitude": 30.352224185294
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.861422,
+    "Longitude": 30.3473818791293
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.86303,
+    "Longitude": 30.3594114374325
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.865483,
+    "Longitude": 30.3028575994974
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.859653,
+    "Longitude": 30.3882519135032
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.868909,
+    "Longitude": 30.3831279205396
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.868665,
+    "Longitude": 30.3830203484222
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.862947,
+    "Longitude": 30.3699878085896
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.860948,
+    "Longitude": 30.3672059326618
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.858613,
+    "Longitude": 30.3603033146368
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.864695,
+    "Longitude": 30.3515723772223
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.865236,
+    "Longitude": 30.3494262370169
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.869702,
+    "Longitude": 30.3410196547379
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.855649,
+    "Longitude": 30.3331108411972
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.858216,
+    "Longitude": 30.3232692668938
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.860079,
+    "Longitude": 30.3641629208019
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.863002,
+    "Longitude": 30.3592947401575
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.871639,
+    "Longitude": 30.3215001865345
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.861458,
+    "Longitude": 30.3474087883084
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.855561,
+    "Longitude": 30.3889370436082
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.859409,
+    "Longitude": 30.3877941834077
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.864278,
+    "Longitude": 30.3872880756414
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.859989,
+    "Longitude": 30.326616788006
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.859565,
+    "Longitude": 30.3652047434117
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.861875,
+    "Longitude": 30.3883132490847
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.869269,
+    "Longitude": 30.3802007365669
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.871785,
+    "Longitude": 30.3361161921413
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.870503,
+    "Longitude": 30.3371226300348
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.86389,
+    "Longitude": 30.3373427261195
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.869304,
+    "Longitude": 30.3788360080512
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.867965,
+    "Longitude": 30.376475637919
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.862377,
+    "Longitude": 30.3557847184253
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.868794,
+    "Longitude": 30.3470625237163
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.87133,
+    "Longitude": 30.344457108276
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.868362,
+    "Longitude": 30.337330625167
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.855525,
+    "Longitude": 30.3376627540589
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.860089,
+    "Longitude": 30.3265179618594
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.858587,
+    "Longitude": 30.3231163852712
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.862497,
+    "Longitude": 30.3211834127569
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.869806,
+    "Longitude": 30.3227494091681
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.871703,
+    "Longitude": 30.3222093957565
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kataraka",
+    "Description": "Completed in 2016, Kataraka tap stands each serve about 175 people.",
+    "Latitude": -0.866075,
+    "Longitude": 30.3737116302212
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.729708,
+    "Longitude": 30.4405691157964
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.727938,
+    "Longitude": 30.4417373139975
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.72474,
+    "Longitude": 30.442439432323
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.722879,
+    "Longitude": 30.4431587513822
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.721434,
+    "Longitude": 30.444847508833
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.720098,
+    "Longitude": 30.4463027653159
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.718726,
+    "Longitude": 30.4476143857165
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.717389,
+    "Longitude": 30.4489439421585
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.716984,
+    "Longitude": 30.4507398645555
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.716307,
+    "Longitude": 30.4517009382731
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.715801,
+    "Longitude": 30.4525811107846
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.731857,
+    "Longitude": 30.4383053306586
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.732606,
+    "Longitude": 30.4374699105346
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.734404,
+    "Longitude": 30.4369122245392
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.735505,
+    "Longitude": 30.4351967166119
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.730012,
+    "Longitude": 30.4349664039736
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.729813,
+    "Longitude": 30.434580445246
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.710394,
+    "Longitude": 30.4443149179036
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.709797,
+    "Longitude": 30.4429235892111
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.708947,
+    "Longitude": 30.4416850340894
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.708558,
+    "Longitude": 30.4411375643637
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.707708,
+    "Longitude": 30.4395757885363
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.707156,
+    "Longitude": 30.4384986839143
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.706803,
+    "Longitude": 30.4377267361403
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.706866,
+    "Longitude": 30.4358861346998
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.706883,
+    "Longitude": 30.4348266778049
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.706828,
+    "Longitude": 30.4333273222696
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.707116,
+    "Longitude": 30.4314596679264
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.707531,
+    "Longitude": 30.4301216676577
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.707856,
+    "Longitude": 30.4290620461599
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.708532,
+    "Longitude": 30.4274725104441
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.736661,
+    "Longitude": 30.434612458267
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.738251,
+    "Longitude": 30.4340818206744
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.740238,
+    "Longitude": 30.4337394991187
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.741964,
+    "Longitude": 30.433711570105
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.743102,
+    "Longitude": 30.4338006975117
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.743843,
+    "Longitude": 30.4338720969315
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.745379,
+    "Longitude": 30.4340148631824
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.746472,
+    "Longitude": 30.4340501433361
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.7479,
+    "Longitude": 30.434426409002
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.748912,
+    "Longitude": 30.4350363548119
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.748957,
+    "Longitude": 30.435072242317
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.749879,
+    "Longitude": 30.4355744990941
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.751253,
+    "Longitude": 30.4365254151714
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.751967,
+    "Longitude": 30.4370996204543
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.753187,
+    "Longitude": 30.4380865400265
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kintu",
+    "Description": "Completed in 2015, Kintu tap stands each serve about 175 people.",
+    "Latitude": -0.754037,
+    "Longitude": 30.438499053554
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.758046,
+    "Longitude": 30.360691498887
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.759596,
+    "Longitude": 30.3544778418796
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.754661,
+    "Longitude": 30.3362917807907
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.754182,
+    "Longitude": 30.3352865651738
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.78996,
+    "Longitude": 30.3555722625898
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.79001,
+    "Longitude": 30.4057510885805
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.774838,
+    "Longitude": 30.3849668577452
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.777737,
+    "Longitude": 30.3702140605823
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.776993,
+    "Longitude": 30.3647199712516
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.780839,
+    "Longitude": 30.3750692708279
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.78488,
+    "Longitude": 30.3788644963613
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.788144,
+    "Longitude": 30.3842134348259
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.803197,
+    "Longitude": 30.4003109435998
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.793147,
+    "Longitude": 30.4086132295842
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.756409,
+    "Longitude": 30.3283005421162
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.790748,
+    "Longitude": 30.3876504516444
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.790396,
+    "Longitude": 30.3877943230978
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.793119,
+    "Longitude": 30.3937092683387
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.788374,
+    "Longitude": 30.3907135020298
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.799021,
+    "Longitude": 30.3981946980002
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.793571,
+    "Longitude": 30.3941130065686
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.803678,
+    "Longitude": 30.4471962824807
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.804433,
+    "Longitude": 30.4400488270349
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.804182,
+    "Longitude": 30.4438469369787
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.802278,
+    "Longitude": 30.4327865051144
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.795574,
+    "Longitude": 30.4176260213314
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.786472,
+    "Longitude": 30.3820058515276
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.770213,
+    "Longitude": 30.3714217547627
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.767829,
+    "Longitude": 30.3743680116393
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.768231,
+    "Longitude": 30.3656141945035
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.796699,
+    "Longitude": 30.4256251231938
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.79835,
+    "Longitude": 30.4213593234019
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.794212,
+    "Longitude": 30.4078224708925
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.794204,
+    "Longitude": 30.4094296016059
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.794665,
+    "Longitude": 30.4087290026507
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.752628,
+    "Longitude": 30.3354401312924
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.755147,
+    "Longitude": 30.3332659869
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.752827,
+    "Longitude": 30.3351976117476
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.753088,
+    "Longitude": 30.3344433231197
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.753305,
+    "Longitude": 30.3346047904417
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.753656,
+    "Longitude": 30.3326115214961
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.75382,
+    "Longitude": 30.3333835063845
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.754524,
+    "Longitude": 30.3325032606374
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.785576,
+    "Longitude": 30.3939833145646
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.763628,
+    "Longitude": 30.3585513555613
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.79602,
+    "Longitude": 30.3954312748881
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.772699,
+    "Longitude": 30.3752269236327
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.783303,
+    "Longitude": 30.3861287967757
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.778414,
+    "Longitude": 30.3838334113681
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.795344,
+    "Longitude": 30.3978378762022
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.765201,
+    "Longitude": 30.3608128348695
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.800903,
+    "Longitude": 30.4308749335371
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.752339,
+    "Longitude": 30.3354582622818
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.792887,
+    "Longitude": 30.4126267212364
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.761234,
+    "Longitude": 30.3438111507179
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.764832,
+    "Longitude": 30.3478579482622
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.773714,
+    "Longitude": 30.3500610198035
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.774074,
+    "Longitude": 30.3484537547371
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.774381,
+    "Longitude": 30.3485164089243
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.77993,
+    "Longitude": 30.3517270357555
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.782749,
+    "Longitude": 30.3517522034063
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kinyamufura",
+    "Description": "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
+    "Latitude": -0.786824,
+    "Longitude": 30.3536709169119
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.879217,
+    "Longitude": 30.3831566942844
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.881538,
+    "Longitude": 30.3817454714779
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.887241,
+    "Longitude": 30.3847402541445
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.88492,
+    "Longitude": 30.3859180527902
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.883916,
+    "Longitude": 30.3843654936343
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.901475,
+    "Longitude": 30.4040339520996
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.898366,
+    "Longitude": 30.4031382950504
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.914628,
+    "Longitude": 30.4283029414439
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.916711,
+    "Longitude": 30.4355832688663
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.920084,
+    "Longitude": 30.4388042721572
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.922929,
+    "Longitude": 30.4380300559336
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.908234,
+    "Longitude": 30.4192748785783
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.922626,
+    "Longitude": 30.4317091671565
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.923975,
+    "Longitude": 30.4350842411267
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.926934,
+    "Longitude": 30.4424807121099
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.927287,
+    "Longitude": 30.4425971848796
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.923405,
+    "Longitude": 30.4469637191333
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.920771,
+    "Longitude": 30.4526492680865
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.916137,
+    "Longitude": 30.4542328473522
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.910499,
+    "Longitude": 30.4528899755984
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.908824,
+    "Longitude": 30.4481951760102
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.894329,
+    "Longitude": 30.3920616622172
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.900286,
+    "Longitude": 30.3963760986965
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.895877,
+    "Longitude": 30.396971801377
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.903381,
+    "Longitude": 30.3916422261575
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.903442,
+    "Longitude": 30.401608342939
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.903852,
+    "Longitude": 30.4065552475262
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.941899,
+    "Longitude": 30.3982942401109
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.948866,
+    "Longitude": 30.4006055446259
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.950622,
+    "Longitude": 30.4042585566748
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.947252,
+    "Longitude": 30.4044586012543
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.943268,
+    "Longitude": 30.4052696422363
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.938941,
+    "Longitude": 30.4052459061695
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.934695,
+    "Longitude": 30.4051682237881
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.93034,
+    "Longitude": 30.404884097848
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.934051,
+    "Longitude": 30.4022147203626
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.929723,
+    "Longitude": 30.4013110519913
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.925661,
+    "Longitude": 30.4057315024087
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.923318,
+    "Longitude": 30.4021417537322
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.92222,
+    "Longitude": 30.406946116457
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.918868,
+    "Longitude": 30.4072538126608
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.915777,
+    "Longitude": 30.4056219292379
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.912724,
+    "Longitude": 30.4058126732294
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.907748,
+    "Longitude": 30.4083392203441
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.908173,
+    "Longitude": 30.4089404850576
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.905173,
+    "Longitude": 30.4080716938396
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.904458,
+    "Longitude": 30.4072282123075
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.917316,
+    "Longitude": 30.4091853394279
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.913035,
+    "Longitude": 30.411127800072
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.898903,
+    "Longitude": 30.4088303345185
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.899718,
+    "Longitude": 30.4113347917351
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.894571,
+    "Longitude": 30.414525820966
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.893373,
+    "Longitude": 30.4193392124395
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.896436,
+    "Longitude": 30.4209352737454
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.900333,
+    "Longitude": 30.4244072974038
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.908838,
+    "Longitude": 30.4298154853233
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.899653,
+    "Longitude": 30.4337097543658
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.90402,
+    "Longitude": 30.4387258463831
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.901623,
+    "Longitude": 30.4219192887391
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.90184,
+    "Longitude": 30.4227810911237
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.906807,
+    "Longitude": 30.4202006961822
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.907891,
+    "Longitude": 30.4197958863954
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.907186,
+    "Longitude": 30.4192307285315
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.904613,
+    "Longitude": 30.4209654383399
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.902652,
+    "Longitude": 30.4205089087321
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.907939,
+    "Longitude": 30.4112302019962
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.908256,
+    "Longitude": 30.4117238019091
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.905454,
+    "Longitude": 30.4101545329975
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.905121,
+    "Longitude": 30.4114117776586
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.907111,
+    "Longitude": 30.4019918085406
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.907218,
+    "Longitude": 30.4008873680131
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.907856,
+    "Longitude": 30.3957781197017
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.912247,
+    "Longitude": 30.39697809281
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.908694,
+    "Longitude": 30.3922848764369
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.905403,
+    "Longitude": 30.3894500315452
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.905977,
+    "Longitude": 30.4212966857325
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.906194,
+    "Longitude": 30.4208745334281
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyakyera",
+    "Description": "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
+    "Latitude": -0.906311,
+    "Longitude": 30.4212605344021
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand -  Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.968651762,
+    "Longitude": 30.38223825
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.972488267,
+    "Longitude": 30.38797263
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.970783735,
+    "Longitude": 30.39260692
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.96964887,
+    "Longitude": 30.39762688
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.967399774,
+    "Longitude": 30.3993525
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.965157815,
+    "Longitude": 30.39862693
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.956045742,
+    "Longitude": 30.39617368
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.953170814,
+    "Longitude": 30.3950176
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand -  Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.972760166,
+    "Longitude": 30.4005336
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.974156142,
+    "Longitude": 30.40584795
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.970834445,
+    "Longitude": 30.39970005
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.970833384,
+    "Longitude": 30.39833529
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.976077236,
+    "Longitude": 30.40073757
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyarubumba",
+    "Description": "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
+    "Latitude": -0.853571,
+    "Longitude": 30.3849071165095
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyarubumba",
+    "Description": "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
+    "Latitude": -0.85561,
+    "Longitude": 30.3952308514984
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyarubumba",
+    "Description": "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
+    "Latitude": -0.860346,
+    "Longitude": 30.398379072025
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyarubumba",
+    "Description": "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
+    "Latitude": -0.853007,
+    "Longitude": 30.3932573609282
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyarubumba",
+    "Description": "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
+    "Latitude": -0.862697,
+    "Longitude": 30.4010620322081
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyarubumba",
+    "Description": "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
+    "Latitude": -0.867705,
+    "Longitude": 30.4049193698276
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyarubumba",
+    "Description": "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
+    "Latitude": -0.8649,
+    "Longitude": 30.3994444123309
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyarubumba",
+    "Description": "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
+    "Latitude": -0.854549,
+    "Longitude": 30.3894943852777
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyarubumba",
+    "Description": "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
+    "Latitude": -0.851729,
+    "Longitude": 30.3870452007231
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Nyarubumba",
+    "Description": "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
+    "Latitude": -0.85357,
+    "Longitude": 30.384745506847
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.812284,
+    "Longitude": 30.5120903606388
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.803574,
+    "Longitude": 30.5114581459779
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.785451,
+    "Longitude": 30.5140370083155
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.787293,
+    "Longitude": 30.5128506799526
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.786633,
+    "Longitude": 30.5118813321433
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.788475,
+    "Longitude": 30.5103537987818
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.790366,
+    "Longitude": 30.5142046958223
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.794414,
+    "Longitude": 30.5155850624924
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.79557,
+    "Longitude": 30.5143183179072
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.796935,
+    "Longitude": 30.5146856433408
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.797016,
+    "Longitude": 30.5149459885052
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.799527,
+    "Longitude": 30.5128703075934
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.801812,
+    "Longitude": 30.5124558908192
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.80885,
+    "Longitude": 30.5118230838704
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.812311,
+    "Longitude": 30.5120723858208
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.817924,
+    "Longitude": 30.5155977426531
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.82002,
+    "Longitude": 30.515623388732
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.822546,
+    "Longitude": 30.524547149559
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.823596,
+    "Longitude": 30.5261358269608
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.825421,
+    "Longitude": 30.5260898035509
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.819215,
+    "Longitude": 30.5290926922585
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.821008,
+    "Longitude": 30.5209564123979
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.820447,
+    "Longitude": 30.5197086500422
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.816933,
+    "Longitude": 30.519917332142
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.814186,
+    "Longitude": 30.5198830976362
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.807978,
+    "Longitude": 30.5192942539299
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.80544,
+    "Longitude": 30.5193227298084
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.803425,
+    "Longitude": 30.51885703173
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.801084,
+    "Longitude": 30.5181221530477
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.799069,
+    "Longitude": 30.5184286548639
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.793857,
+    "Longitude": 30.5202904537634
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.79206,
+    "Longitude": 30.5217820603309
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.798632,
+    "Longitude": 30.5127271804109
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.792514,
+    "Longitude": 30.5106566801917
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.794142,
+    "Longitude": 30.5130890369634
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.7933,
+    "Longitude": 30.5106023360156
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.792705,
+    "Longitude": 30.512138113127
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.79115,
+    "Longitude": 30.5116002961076
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.794844,
+    "Longitude": 30.5093712795779
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.791413,
+    "Longitude": 30.5126057957855
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.801176,
+    "Longitude": 30.5053358704312
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.807201,
+    "Longitude": 30.504102079247
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.812468,
+    "Longitude": 30.5029315779761
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.81807,
+    "Longitude": 30.503269329486
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.818323,
+    "Longitude": 30.5031704032522
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.820472,
+    "Longitude": 30.5017503784204
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.820273,
+    "Longitude": 30.5010860513126
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.820191,
+    "Longitude": 30.5006371489668
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.818871,
+    "Longitude": 30.4987703256707
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.820454,
+    "Longitude": 30.5009243161046
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.821501,
+    "Longitude": 30.4992625400374
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.822328,
+    "Longitude": 30.4932370940966
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.824822,
+    "Longitude": 30.4934151155452
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.827977,
+    "Longitude": 30.4960529730213
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.824266,
+    "Longitude": 30.5006615505828
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.829051,
+    "Longitude": 30.4940499725992
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.82254,
+    "Longitude": 30.5004920237991
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.82264,
+    "Longitude": 30.5004650247478
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.823163,
+    "Longitude": 30.499674541321
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.822414,
+    "Longitude": 30.5012463436838
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.822432,
+    "Longitude": 30.5012732696317
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.821637,
+    "Longitude": 30.5012198897625
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.819845,
+    "Longitude": 30.5105772181841
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.815805,
+    "Longitude": 30.5073921265361
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.813545,
+    "Longitude": 30.5061005275833
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.812307,
+    "Longitude": 30.5059217059501
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.811595,
+    "Longitude": 30.5090109480388
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.786266,
+    "Longitude": 30.5031808680642
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.742118,
+    "Longitude": 30.4821599803051
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.740267,
+    "Longitude": 30.4837772042819
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.740459,
+    "Longitude": 30.4881407864175
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.742012,
+    "Longitude": 30.4856886995523
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.743034,
+    "Longitude": 30.4886331680932
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.744247,
+    "Longitude": 30.4913620447157
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.743777,
+    "Longitude": 30.4913443525762
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.750572,
+    "Longitude": 30.4929656678569
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.751756,
+    "Longitude": 30.493324147234
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.753835,
+    "Longitude": 30.4947057054347
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.756438,
+    "Longitude": 30.4969848516967
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.762485,
+    "Longitude": 30.5007166026053
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.746198,
+    "Longitude": 30.4904899934694
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.74046,
+    "Longitude": 30.4899545051623
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.74113,
+    "Longitude": 30.4914356337713
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.742929,
+    "Longitude": 30.4933022177848
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.745044,
+    "Longitude": 30.4951686248822
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.74687,
+    "Longitude": 30.4962181194722
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.749427,
+    "Longitude": 30.4965309298272
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.752662,
+    "Longitude": 30.4980465203225
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.754913,
+    "Longitude": 30.5004066877221
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.758952,
+    "Longitude": 30.5013561400702
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.758953,
+    "Longitude": 30.5019038548106
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.758989,
+    "Longitude": 30.5018858761989
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.75552,
+    "Longitude": 30.5032526607721
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.756388,
+    "Longitude": 30.5036472383231
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.761357,
+    "Longitude": 30.5033211457622
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.764456,
+    "Longitude": 30.5040017590631
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.765921,
+    "Longitude": 30.505706916301
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.765678,
+    "Longitude": 30.5077093697141
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.766149,
+    "Longitude": 30.5088404509959
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.767044,
+    "Longitude": 30.5110757058124
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.766831,
+    "Longitude": 30.5162297938227
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.766672,
+    "Longitude": 30.5230450014864
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.764939,
+    "Longitude": 30.525883393135
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.762899,
+    "Longitude": 30.5294941666425
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.764174,
+    "Longitude": 30.5318100570268
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.765448,
+    "Longitude": 30.5314052671692
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.765944,
+    "Longitude": 30.5297079248013
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.766983,
+    "Longitude": 30.5287824781248
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.768842,
+    "Longitude": 30.5264468352112
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.767779,
+    "Longitude": 30.5318259516463
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.771459,
+    "Longitude": 30.5364930094735
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.773518,
+    "Longitude": 30.5332503356533
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.776519,
+    "Longitude": 30.5356819601
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.77996,
+    "Longitude": 30.5338661625469
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.76632,
+    "Longitude": 30.5239969881736
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.768812,
+    "Longitude": 30.5211940757322
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.770284,
+    "Longitude": 30.5201247140777
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.774217,
+    "Longitude": 30.5233818483016
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.776966,
+    "Longitude": 30.5274208595713
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.784241,
+    "Longitude": 30.5300564845524
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.78668,
+    "Longitude": 30.5300460723452
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.789119,
+    "Longitude": 30.5293263000106
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.771449,
+    "Longitude": 30.518588617138
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.775416,
+    "Longitude": 30.5189275173002
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.788461,
+    "Longitude": 30.5170970950405
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.786826,
+    "Longitude": 30.5171788752752
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.785281,
+    "Longitude": 30.5167667501025
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.783274,
+    "Longitude": 30.5159867527542
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.782,
+    "Longitude": 30.5154667163052
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.784668,
+    "Longitude": 30.5192453433504
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.779517,
+    "Longitude": 30.5173807186007
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.780647,
+    "Longitude": 30.5188436477749
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.764273,
+    "Longitude": 30.4997907391773
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.764426,
+    "Longitude": 30.4992608936065
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.768166,
+    "Longitude": 30.4979837153515
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.770595,
+    "Longitude": 30.4958812309701
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.77156,
+    "Longitude": 30.4925494919045
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.766364,
+    "Longitude": 30.490622066551
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.773566,
+    "Longitude": 30.49330254305
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.772709,
+    "Longitude": 30.4956465421021
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.775454,
+    "Longitude": 30.492663930732
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.77623,
+    "Longitude": 30.4901493822646
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.77545,
+    "Longitude": 30.486414629467
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.775061,
+    "Longitude": 30.4851039459967
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.776643,
+    "Longitude": 30.4861266014994
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.774509,
+    "Longitude": 30.4833623757353
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.775667,
+    "Longitude": 30.4851035885813
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.77647,
+    "Longitude": 30.4847529381711
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.777481,
+    "Longitude": 30.48332470265
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.777256,
+    "Longitude": 30.4839264190002
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.777516,
+    "Longitude": 30.4812236338102
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.778346,
+    "Longitude": 30.4794094183335
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.778445,
+    "Longitude": 30.4781972195316
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.778968,
+    "Longitude": 30.4767333627515
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.779382,
+    "Longitude": 30.474039477957
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.781802,
+    "Longitude": 30.4707158854091
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.78369,
+    "Longitude": 30.4711457343653
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.783879,
+    "Longitude": 30.4695025063971
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.786868,
+    "Longitude": 30.4680102324436
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.791068,
+    "Longitude": 30.4657630019562
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.794401,
+    "Longitude": 30.4637317766093
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.770167,
+    "Longitude": 30.5046628916251
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.770989,
+    "Longitude": 30.5043481488028
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.770374,
+    "Longitude": 30.5038187473285
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.773274,
+    "Longitude": 30.503008947927
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.773039,
+    "Longitude": 30.5034580337727
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.77164,
+    "Longitude": 30.5050391509201
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.775505,
+    "Longitude": 30.5013375531854
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.776561,
+    "Longitude": 30.4997296988091
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.779253,
+    "Longitude": 30.498973880786
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.78114,
+    "Longitude": 30.4970422904939
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.785424,
+    "Longitude": 30.4995807946912
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.788571,
+    "Longitude": 30.5039067959777
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.78642,
+    "Longitude": 30.503180776753
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.790232,
+    "Longitude": 30.5015892211592
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.793777,
+    "Longitude": 30.4929403421749
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.790146,
+    "Longitude": 30.4946844404894
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.785077,
+    "Longitude": 30.4933316500844
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.784236,
+    "Longitude": 30.4924701738971
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.785166,
+    "Longitude": 30.4918949685674
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.784089,
+    "Longitude": 30.4877832723423
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.784051,
+    "Longitude": 30.4856552993766
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.787978,
+    "Longitude": 30.4804541859022
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.791007,
+    "Longitude": 30.4830113380363
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.794844,
+    "Longitude": 30.4787440578841
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.795099,
+    "Longitude": 30.4831704840977
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.796375,
+    "Longitude": 30.4851540459402
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.794894,
+    "Longitude": 30.486232411182
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.805613,
+    "Longitude": 30.4929241780449
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.808857,
+    "Longitude": 30.4929132114275
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.811615,
+    "Longitude": 30.4965749464634
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.811806,
+    "Longitude": 30.4984783808331
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.80503,
+    "Longitude": 30.4997036755994
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.806691,
+    "Longitude": 30.4981043970446
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.807973,
+    "Longitude": 30.495571533952
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.805876,
+    "Longitude": 30.4945581913266
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.784854,
+    "Longitude": 30.4838680244113
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rubingo",
+    "Description": "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
+    "Latitude": -0.792932,
+    "Longitude": 30.4996481405393
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.959096,
+    "Longitude": 30.3234373724152
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.963091,
+    "Longitude": 30.326208509474
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.969451,
+    "Longitude": 30.325575061554
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.972603,
+    "Longitude": 30.3249261534424
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.978554,
+    "Longitude": 30.3218958025442
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.978369,
+    "Longitude": 30.3169848988939
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.976315,
+    "Longitude": 30.3121293716535
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.974224,
+    "Longitude": 30.3071930926138
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.972014,
+    "Longitude": 30.3004164400929
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.96883,
+    "Longitude": 30.2950770753998
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.964131,
+    "Longitude": 30.2930248501512
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.961953,
+    "Longitude": 30.2921198004511
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.966701,
+    "Longitude": 30.3324006444589
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.963166,
+    "Longitude": 30.3403670973261
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.959655,
+    "Longitude": 30.3450654536831
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.982937,
+    "Longitude": 30.3241099296845
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand - Rwera",
+    "Description": "Completed in 2016, Rwera tap stands each serve about 175 people.",
+    "Latitude": -0.981845,
+    "Longitude": 30.3146119027857
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand -Buhanama",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.945719004,
+    "Longitude": 30.42485948
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand -Buhanama",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.9499549,
+    "Longitude": 30.43293733
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand, Double - Buhanama",
+    "Description": "Completed in 2014, Buhanama tap stands each serve about 175 people.",
+    "Latitude": -0.750812357,
+    "Longitude": 30.29111896
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand, Kaberbere School",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.948266946,
+    "Longitude": 30.41181141
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand, Kaberbere School - Buhanama",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.948266946,
+    "Longitude": 30.41181141
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand, Kaberbere",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.942728585,
+    "Longitude": 30.41437446
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand, Kaberbere - Buhanama",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.942728585,
+    "Longitude": 30.41437446
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand, Kasanda School",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.958391028,
+    "Longitude": 30.41382407
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand, Kasanda School - Buhanama",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.958391028,
+    "Longitude": 30.41382407
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand, Kasanda ",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.966509633,
+    "Longitude": 30.41705033
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand, Kasanda - Buhanama",
+    "Description": "Completed in 2014, Kasanda tap stands each serve about 175 people.",
+    "Latitude": -0.966509633,
+    "Longitude": 30.41705033
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand, Mitooma -  Nyamugandika, Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.973331169,
+    "Longitude": 30.40260725
+  },
+  {
+    "ID": "T",
+    "Name": "Tapstand, Nyakakongi -  Nyamugandika, Kishororo",
+    "Description": "Completed in 2014, Kishororo tap stands each serve about 175 people.",
+    "Latitude": -0.96453876,
+    "Longitude": 30.39283616
   },
   {
     "ID": "T",

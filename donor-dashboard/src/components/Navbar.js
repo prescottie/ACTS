@@ -3,6 +3,6 @@ import React from 'react'
 
 export default () => (
   <div className="Navbar">
-    <img src="/acts-logo.png" alt="ACTS" />
+    <img src="/acts-logo.png" alt="ACTS"  height="60px"/>
   </div>
 )

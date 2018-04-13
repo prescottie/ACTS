@@ -1,4 +1,4 @@
-import {PROJECTS_UPDATE} from '../actions/map'
+import {PROJECTS_UPDATE, MARKER_UPDATE, MAP_UPDATE} from '../actions/map'
 
 
 const initialState = {
@@ -16,7 +16,20 @@ export default (state = initialState, action = {}) => {
       return {
         ...state,
         projects: action.projects,
-      };
+      }
+    case MARKER_UPDATE:
+      return {
+        ...state,
+        activeMarker: action.marker,
+        selectedPlace: action.props,
+        showingInfoWindow: true,
+      }
+    case MAP_UPDATE:
+      return {
+        ...state,
+        showingInfoWindow: false,
+        activeMarker: null,
+      }
     default: return state;
-  };
+  }
 };
