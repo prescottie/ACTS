@@ -1,4 +1,4 @@
-h1, h2 {
+h1, h2, h3, h4 {
   margin: 0;
 }
 .iw-content {
@@ -35,3 +35,31 @@ h1, h2 {
   color: #ffffff;
   background: #506187;
 }
+
+.filter-section {
+  padding: 8px;
+}
+
+.filter-section-heading {
+  font-weight: 500;
+  font-size: 1.25em;
+  margin-bottom: 4px;
+}
+
+.filter-count {
+  font-size: 0.75em;
+  color: #999;
+}
+
+.filter-checkbox {
+  opacity: 0.75;
+}
+
+.filter-checkbox:hover {
+  opacity: 1;
+}
+
+.filter-checkbox label {
+  margin-left: 4px;
+}
+
