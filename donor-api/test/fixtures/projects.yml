@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  status: false
+  type_id: 1
+  population: 1
+  completion_date: 2018-04-13
+  location: 
+
+two:
+  name: MyString
+  description: MyString
+  status: false
+  type_id: 1
+  population: 1
+  completion_date: 2018-04-13
+  location: 
