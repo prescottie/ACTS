@@ -28,6 +28,9 @@ gem 'puma', '~> 3.7'
 # Use postgis adapter to store geolocations in active record
 gem 'activerecord-postgis-adapter'
 
+# Use rack-cors for cross origin request from front end 
+gem 'rack-cors', :require => 'rack/cors'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]

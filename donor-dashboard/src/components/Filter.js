@@ -11,23 +11,23 @@ class Filter extends React.Component {
         <div className="filter-section">
           <h4 className="filter-section-heading">Type</h4>
           <div className="filter-checkbox">
-            <input type="checkbox" checked/>
+            <input type="checkbox" />
             <label>Tapstand <span className="filter-count">(420)</span></label>
           </div>
           <div className="filter-checkbox">
-            <input type="checkbox" checked />
+            <input type="checkbox"  />
             <label>Resevoir</label>
           </div>
           <div className="filter-checkbox">
-            <input type="checkbox" checked />
+            <input type="checkbox"  />
             <label>Source</label>
           </div>
           <div className="filter-checkbox">
-            <input type="checkbox" checked />
+            <input type="checkbox"  />
             <label>Break Pressure Tank</label>
           </div>
           <div className="filter-checkbox">
-            <input type="checkbox"  checked/>
+            <input type="checkbox"  />
             <label>Sediment Tank</label>
           </div>
         </div>

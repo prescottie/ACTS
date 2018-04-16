@@ -1,7 +1,7 @@
 module ProjectSeeds
   PROJECT_SEEDS = [
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Kishororo",
       description: "Completed in 2014, the Kishororo source provides safe water for 5,547.",
       location: [-0.968651776, 30.3822562],
@@ -10,7 +10,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 4,
+      project_type_id: 4,
       name: "Break Pressure Tank - Nyakyera",
       description: "Completed in 2010, the Nyakyera break pressure tank relieves pressure on the lines when there are steep elevation drops.",
       location: [-0.890253, 30.3899905122854],
@@ -19,7 +19,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 4,
+      project_type_id: 4,
       name: "Break Pressure Tank - Rubingo",
       description: "Completed 2001-2007, Rubingo break pressure tanks relieve pressure on the lines when there are steep elevation drops.",
       location: [-0.773801, 30.4928893755998],
@@ -28,7 +28,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 4,
+      project_type_id: 4,
       name: "Break Pressure Tank - Rubingo",
       description: "Completed 2001-2007, Rubingo break pressure tanks relieve pressure on the lines when there are steep elevation drops.",
       location: [-0.743462, 30.4776967799496],
@@ -37,7 +37,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 4,
+      project_type_id: 4,
       name: "Break Pressure Tank - Rwera",
       description: "Completed in 2016, the Rwera break pressure tank relieves pressure on the lines when there are steep elevation drops.",
       location: [-0.972666, 30.3249620163111],
@@ -46,7 +46,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Buhanama",
       description: "Completed in 2014, Buhanama reservoirs hold the water collected from the source until it is needed.",
       location: [-0.741474701, 30.30198737],
@@ -55,7 +55,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Buhanama",
       description: "Completed in 2014, Kasanda reservoirs hold the water collected from the source until it is needed.",
       location: [-0.953349652, 30.41623416],
@@ -64,7 +64,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Bujaga",
       description: "Completed in 1998, the Bujaga reservoir holds the water collected from the source until it is needed.",
       location: [-0.737239, 30.3730306384857],
@@ -73,7 +73,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Kasanda",
       description: "Completed in 2014, Kasanda reservoirs hold the water collected from the source until it is needed.",
       location: [-0.953349652, 30.41623416],
@@ -82,7 +82,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Kataraka",
       description: "Completed in 2016, Kataraka reservoirs hold the water collected from the source until it is needed.",
       location: [-0.858769, 30.3644600992706],
@@ -91,7 +91,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Kintu",
       description: "Completed in 2015, Kintu reservoirs hold the water collected from the source until it is needed.",
       location: [-0.73108, 30.4391946366135],
@@ -100,7 +100,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Kintu",
       description: "Completed in 2015, Kintu reservoirs hold the water collected from the source until it is needed.",
       location: [-0.733913, 30.4477944090395],
@@ -109,7 +109,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Kinyamufura",
       description: "Completed in 2008, Kinyamufura reservoirs hold the water collected from the source until it is needed.",
       location: [-0.761849, 30.3597644615469],
@@ -118,7 +118,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Kinyamufura",
       description: "Completed in 2008, Kinyamufura reservoirs hold the water collected from the source until it is needed.",
       location: [-0.760109, 30.3513711824843],
@@ -127,7 +127,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Nyakyera",
       description: "Completed in 2010, the Nyakyera reservoirs hold the water collected from the source until it is needed.",
       location: [-0.904097, 30.4070578755622],
@@ -136,7 +136,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Nyakyera",
       description: "Completed in 2010, the Nyakyera reservoirs hold the water collected from the source until it is needed.",
       location: [-0.923092, 30.4382364533252],
@@ -145,7 +145,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Nyamugandika, Kishororo",
       description: "Completed in 2014, Kishororo reservoirs hold the water collected from the source until it is needed.",
       location: [-0.969621749, 30.39761792],
@@ -154,7 +154,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Nyarubumba",
       description: "Completed in 2009, Nyarubumba reservoirs hold the water collected from the source until it is needed.",
       location: [-0.852863, 30.3939667499639],
@@ -163,7 +163,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Rubingo",
       description: "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
       location: [-0.742136, 30.48205222495],
@@ -172,7 +172,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Rubingo",
       description: "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
       location: [-0.79163, 30.4834060324205],
@@ -181,7 +181,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Rubingo",
       description: "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
       location: [-0.77372, 30.4931138958988],
@@ -190,7 +190,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Rubingo",
       description: "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
       location: [-0.765044, 30.5050340003369],
@@ -199,7 +199,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Rubingo",
       description: "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
       location: [-0.764962, 30.4878124990443],
@@ -208,7 +208,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Rubingo",
       description: "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
       location: [-0.832999, 30.4943168540756],
@@ -217,7 +217,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Rubingo",
       description: "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
       location: [-0.788408, 30.5037811867933],
@@ -226,7 +226,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Rubingo",
       description: "Completed 2001-2007, Rubingo reservoirs hold the water collected from the source until it is needed.",
       location: [-0.788471, 30.503736254069],
@@ -235,7 +235,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Reservoir - Rwera",
       description: "Completed in 2016, the Rwera reservoir holds the water collected from the source until it is needed.",
       location: [-0.972512, 30.3245042505548],
@@ -244,7 +244,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 3,
+      project_type_id: 3,
       name: "Resevoir - Kasangari",
       description: "Completed 2009-2011, Kasangari reservoirs hold the water collected from the source until it is needed.",
       location: [0.463943749, 30.12348598],
@@ -253,7 +253,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 5,
+      project_type_id: 5,
       name: "Sed Tank - Buhanama",
       description: "Completed in 2014, the Buhanama sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
       location: [-0.734750456, 30.30103981],
@@ -262,7 +262,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 5,
+      project_type_id: 5,
       name: "Sediment Tank - Kasangari",
       description: "Completed in 2009-2011, the Kasangari sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
       location: [0.463979826, 30.12332441],
@@ -271,7 +271,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 5,
+      project_type_id: 5,
       name: "Sediment Tank - Kataraka",
       description: "Completed in 2016, the Kataraka sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
       location: [-0.858091, 30.3898062306115],
@@ -280,7 +280,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 5,
+      project_type_id: 5,
       name: "Sediment Tank - Kinyamufura",
       description: "Completed in 2008, the Kinyamufura sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
       location: [-0.756654, 30.3596239680333],
@@ -289,7 +289,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 5,
+      project_type_id: 5,
       name: "Sediment Tank - Nyakyera",
       description: "Completed in 2010, the Nyakyera sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
       location: [-0.858553, 30.3910718677183],
@@ -298,7 +298,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 5,
+      project_type_id: 5,
       name: "Sediment Tank - Kishororo",
       description: "Completed in 2014, the Kishororo sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
       location: [-0.972470149, 30.38791877],
@@ -307,7 +307,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 5,
+      project_type_id: 5,
       name: "Sediment Tank - Rubingo",
       description: "Completed 2001-2007, the Rubingo sediment tank allows sand and other particles to settle out of the water before it travels down to reservoirs.",
       location: [-0.83299, 30.4943258388256],
@@ -316,7 +316,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Buhanama",
       description: "Completed in 2014, the Buhanama source provides safe water for 9,390.",
       location: [-0.734623886, 30.30095909],
@@ -325,7 +325,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Buhanama",
       description: "Completed in 2014, the Kasanda source provides safe water for 4366.",
       location: [-0.953440577, 30.4169524],
@@ -334,7 +334,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Bujaga",
       description: "Completed in 1998, the Bujaga source provides safe water for 20,000.",
       location: [-0.737338, 30.3728689766053],
@@ -343,7 +343,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Kasanda",
       description: "Completed in 2014, the Kasanda source provides safe water for 4366.",
       location: [-0.953440577, 30.4169524],
@@ -352,7 +352,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Kasangari",
       description: "Completed 2009-2011, Kasangari sources provide safe water for 2,183.",
       location: [0.464052079, 30.1232436],
@@ -361,7 +361,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Kataraka",
       description: "Completed in 2016, Kataraka sources provide safe water for 5,300.",
       location: [-0.855561, 30.3889370436082],
@@ -370,7 +370,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Kataraka",
       description: "Completed in 2016, Kataraka sources provide safe water for 5,300.",
       location: [-0.859936, 30.3931180004535],
@@ -379,7 +379,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Kintu",
       description: "Completed in 2015, Kintu sources provide safe water for 11,400.",
       location: [-0.732909, 30.4450565370189],
@@ -388,7 +388,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Kintu",
       description: "Completed in 2015, Kintu sources provide safe water for 11,400.",
       location: [-0.736591, 30.4545537255294],
@@ -397,7 +397,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Kinyamufura",
       description: "Completed in 2008, Kinyamufura sources provide safe water for 22,000.",
       location: [-0.756248, 30.3595075009643],
@@ -406,7 +406,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Nyakyera",
       description: "Completed in 2010, the Nyakyera source provides safe water for 20,000.",
       location: [-0.86755, 30.4024503918065],
@@ -415,7 +415,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Nyarubumba",
       description: "Completed in 2009, the Nyarubumba source provides safe water for 7,500.",
       location: [-0.851729, 30.3870452007231],
@@ -424,7 +424,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Rubingo",
       description: "Completed 2001-2007, Rubingo sources provide safe water for 25,700.",
       location: [-0.743606, 30.4776428254613],
@@ -433,7 +433,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Rubingo",
       description: "Completed 2001-2007, Rubingo sources provide safe water for 25,700.",
       location: [-0.762856, 30.4863501717517],
@@ -442,7 +442,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 2,
+      project_type_id: 2,
       name: "Source - Rwera",
       description: "Completed in 2016, the Rwera source provides safe water for 4000.",
       location: [-0.95557, 30.3200284262995],
@@ -451,7 +451,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.959135857, 30.39508493],
@@ -460,7 +460,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bagarukayo Memorial School, Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.948197771, 30.39210328],
@@ -469,7 +469,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.747339342, 30.30119378],
@@ -478,7 +478,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.751214777, 30.29876749],
@@ -487,7 +487,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.751014966, 30.2971786],
@@ -496,7 +496,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.751067476, 30.29444045],
@@ -505,7 +505,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.747510985, 30.28658741],
@@ -514,7 +514,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.74666089, 30.2856094],
@@ -523,7 +523,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.744986745, 30.2819387],
@@ -532,7 +532,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.744944955, 30.27290757],
@@ -541,7 +541,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.746849675, 30.26959379],
@@ -550,7 +550,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.747678701, 30.26582284],
@@ -559,7 +559,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.749491625, 30.26029177],
@@ -568,7 +568,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.752230222, 30.3040187],
@@ -577,7 +577,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.752765201, 30.30687322],
@@ -586,7 +586,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.753579532, 30.30844379],
@@ -595,7 +595,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.753481877, 30.31125382],
@@ -604,7 +604,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.752733144, 30.31343583],
@@ -613,7 +613,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.75103576, 30.31604934],
@@ -622,7 +622,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.751986505, 30.31899342],
@@ -631,7 +631,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.752052947, 30.32411961],
@@ -640,7 +640,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.75362685, 30.32638102],
@@ -649,7 +649,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.749734663, 30.33111462],
@@ -658,7 +658,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.755103533, 30.303191],
@@ -667,7 +667,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.953349652, 30.41623416],
@@ -676,7 +676,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.954051671, 30.41235481],
@@ -685,7 +685,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Buhanama",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.95081514, 30.41112713],
@@ -694,7 +694,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.735956, 30.3722503065451],
@@ -703,7 +703,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.722873, 30.3704174218926],
@@ -712,7 +712,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.719383, 30.380187448943],
@@ -721,7 +721,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.724296, 30.3769435794295],
@@ -730,7 +730,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.729375, 30.3955431890192],
@@ -739,7 +739,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.736893, 30.3842803015747],
@@ -748,7 +748,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.736237, 30.3736237727343],
@@ -757,7 +757,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.735927, 30.384442470442],
@@ -766,7 +766,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.734727, 30.3715148323433],
@@ -775,7 +775,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.723514, 30.3691870764737],
@@ -784,7 +784,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.718994, 30.3802415385414],
@@ -793,7 +793,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.728672, 30.3985782034856],
@@ -802,7 +802,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.740661, 30.3848347373488],
@@ -811,7 +811,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.736852, 30.3752484286035],
@@ -820,7 +820,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.733778, 30.3712550258945],
@@ -829,7 +829,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.722233, 30.3721505325043],
@@ -838,7 +838,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.71894, 30.3803672613785],
@@ -847,7 +847,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.731861, 30.3992317741604],
@@ -856,7 +856,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.744311, 30.3853263857136],
@@ -865,7 +865,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.736266, 30.3766403619292],
@@ -874,7 +874,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.732341, 30.370115664275],
@@ -883,7 +883,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.735237, 30.3786520375209],
@@ -892,7 +892,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.721692, 30.3732461531722],
@@ -901,7 +901,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.720367, 30.3799624366987],
@@ -910,7 +910,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.730525, 30.4007498529285],
@@ -919,7 +919,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.732197, 30.3715701768076],
@@ -928,7 +928,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.73577, 30.3792083634338],
@@ -937,7 +937,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.721439, 30.3737131517507],
@@ -946,7 +946,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.720269, 30.3811475893308],
@@ -955,7 +955,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.731492, 30.4017009827182],
@@ -964,7 +964,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.730715, 30.3709964504103],
@@ -973,7 +973,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.735933, 30.3797559278151],
@@ -982,7 +982,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.720061, 30.3815696741942],
@@ -991,7 +991,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.720961, 30.3745034862833],
@@ -1000,7 +1000,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.731718, 30.4024191067869],
@@ -1009,7 +1009,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.728628, 30.3699292875175],
@@ -1018,7 +1018,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.734686, 30.3787062271007],
@@ -1027,7 +1027,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.734668, 30.3787241936652],
@@ -1036,7 +1036,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.720735, 30.3746921528083],
@@ -1045,7 +1045,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.720594, 30.3820721382484],
@@ -1054,7 +1054,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.732479, 30.4047260641777],
@@ -1063,7 +1063,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.733611, 30.3795058968842],
@@ -1072,7 +1072,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.721394, 30.3748982678371],
@@ -1081,7 +1081,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.721859, 30.3822599534039],
@@ -1090,7 +1090,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.731822, 30.4089192678055],
@@ -1099,7 +1099,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.72422, 30.3714670650005],
@@ -1108,7 +1108,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.733556, 30.378320830697],
@@ -1117,7 +1117,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.719869, 30.377628444396],
@@ -1126,7 +1126,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.721091, 30.3811650754975],
@@ -1135,7 +1135,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.731706, 30.4115499578979],
@@ -1144,7 +1144,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.735622, 30.372600643093],
@@ -1153,7 +1153,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.722297, 30.3740448433704],
@@ -1162,7 +1162,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.734569, 30.3793168006659],
@@ -1171,7 +1171,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.733964, 30.4115576388233],
@@ -1180,7 +1180,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.731569, 30.3783578985769],
@@ -1189,7 +1189,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.72966, 30.4201792502583],
@@ -1198,7 +1198,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.732436, 30.3785010427137],
@@ -1207,7 +1207,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.730619, 30.4224502167449],
@@ -1216,7 +1216,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.732229, 30.3792732723975],
@@ -1225,7 +1225,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.731748, 30.4228356401475],
@@ -1234,7 +1234,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.73019, 30.3840687232485],
@@ -1243,7 +1243,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.730171, 30.3833235562994],
@@ -1252,7 +1252,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.737104, 30.3743953713172],
@@ -1261,7 +1261,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.72458, 30.3695994462067],
@@ -1270,7 +1270,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Bujaga",
       description: "Completed in 1998, Bujaga tap stands each serve about 175 people.",
       location: [-0.737212, 30.3731383901199],
@@ -1279,7 +1279,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kasanda",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.953349652, 30.41623416],
@@ -1288,7 +1288,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kasanda",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.954051671, 30.41235481],
@@ -1297,7 +1297,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kasanda",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.95081514, 30.41112713],
@@ -1306,7 +1306,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kasanda",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.945719004, 30.42485948],
@@ -1315,7 +1315,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kasanda",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.9499549, 30.43293733],
@@ -1324,7 +1324,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kasangari",
       description: "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
       location: [0.462886902,30.12432115],
@@ -1333,7 +1333,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kasangari",
       description: "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
       location: [0.459462508,30.12476233],
@@ -1342,7 +1342,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kasangari",
       description: "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
       location: [0.4590469,30.12486123],
@@ -1351,7 +1351,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kasangari",
       description: "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
       location: [0.459219873,30.12803854],
@@ -1360,7 +1360,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kasangari",
       description: "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
       location: [0.463989788, 30.12557729],
@@ -1369,7 +1369,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kasangari",
       description: "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
       location: [0.463601837,30.12701356],
@@ -1378,7 +1378,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kasangari",
       description: "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
       location: [0.457166275,30.12196285],
@@ -1387,7 +1387,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kasangari",
       description: "Completed 2009-2011, Rubingo tap stands each serve about 175 people.",
       location: [0.455927881,30.12075163],
@@ -1396,7 +1396,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.864158, 30.3716299935824],
@@ -1405,7 +1405,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.858378, 30.3607793177721],
@@ -1414,7 +1414,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.862993, 30.3591959867273],
@@ -1423,7 +1423,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.869874, 30.3669753187182],
@@ -1432,7 +1432,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.874934, 30.3692163606027],
@@ -1441,7 +1441,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.858817, 30.3549522066566],
@@ -1450,7 +1450,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.867246, 30.3557005433229],
@@ -1459,7 +1459,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.869863, 30.352224185294],
@@ -1468,7 +1468,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.861422, 30.3473818791293],
@@ -1477,7 +1477,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.86303, 30.3594114374325],
@@ -1486,7 +1486,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.865483, 30.3028575994974],
@@ -1495,7 +1495,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.859653, 30.3882519135032],
@@ -1504,7 +1504,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.868909, 30.3831279205396],
@@ -1513,7 +1513,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.868665, 30.3830203484222],
@@ -1522,7 +1522,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.862947, 30.3699878085896],
@@ -1531,7 +1531,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.860948, 30.3672059326618],
@@ -1540,7 +1540,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.858613, 30.3603033146368],
@@ -1549,7 +1549,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.864695, 30.3515723772223],
@@ -1558,7 +1558,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.865236, 30.3494262370169],
@@ -1567,7 +1567,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.869702, 30.3410196547379],
@@ -1576,7 +1576,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.855649, 30.3331108411972],
@@ -1585,7 +1585,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.858216, 30.3232692668938],
@@ -1594,7 +1594,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.860079, 30.3641629208019],
@@ -1603,7 +1603,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.863002, 30.3592947401575],
@@ -1612,7 +1612,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.871639, 30.3215001865345],
@@ -1621,7 +1621,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.861458, 30.3474087883084],
@@ -1630,7 +1630,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.855561, 30.3889370436082],
@@ -1639,7 +1639,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.859409, 30.3877941834077],
@@ -1648,7 +1648,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.864278, 30.3872880756414],
@@ -1657,7 +1657,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.859989, 30.326616788006],
@@ -1666,7 +1666,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.859565, 30.3652047434117],
@@ -1675,7 +1675,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.861875, 30.3883132490847],
@@ -1684,7 +1684,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.869269, 30.3802007365669],
@@ -1693,7 +1693,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.871785, 30.3361161921413],
@@ -1702,7 +1702,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.870503, 30.3371226300348],
@@ -1711,7 +1711,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.86389, 30.3373427261195],
@@ -1720,7 +1720,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.869304, 30.3788360080512],
@@ -1729,7 +1729,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.867965, 30.376475637919],
@@ -1738,7 +1738,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.862377, 30.3557847184253],
@@ -1747,7 +1747,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.868794, 30.3470625237163],
@@ -1756,7 +1756,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.87133, 30.344457108276],
@@ -1765,7 +1765,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.868362, 30.337330625167],
@@ -1774,7 +1774,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.855525, 30.3376627540589],
@@ -1783,7 +1783,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.860089, 30.3265179618594],
@@ -1792,7 +1792,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.858587, 30.3231163852712],
@@ -1801,7 +1801,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.862497, 30.3211834127569],
@@ -1810,7 +1810,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.869806, 30.3227494091681],
@@ -1819,7 +1819,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.871703, 30.3222093957565],
@@ -1828,7 +1828,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kataraka",
       description: "Completed in 2016, Kataraka tap stands each serve about 175 people.",
       location: [-0.866075, 30.3737116302212],
@@ -1837,7 +1837,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.729708, 30.4405691157964],
@@ -1846,7 +1846,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.727938, 30.4417373139975],
@@ -1855,7 +1855,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.72474, 30.442439432323],
@@ -1864,7 +1864,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.722879, 30.4431587513822],
@@ -1873,7 +1873,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.721434, 30.444847508833],
@@ -1882,7 +1882,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.720098, 30.4463027653159],
@@ -1891,7 +1891,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.718726, 30.4476143857165],
@@ -1900,7 +1900,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.717389, 30.4489439421585],
@@ -1909,7 +1909,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.716984, 30.4507398645555],
@@ -1918,7 +1918,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.716307, 30.4517009382731],
@@ -1927,7 +1927,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.715801, 30.4525811107846],
@@ -1936,7 +1936,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.731857, 30.4383053306586],
@@ -1945,7 +1945,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.732606, 30.4374699105346],
@@ -1954,7 +1954,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.734404, 30.4369122245392],
@@ -1963,7 +1963,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.735505, 30.4351967166119],
@@ -1972,7 +1972,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.730012, 30.4349664039736],
@@ -1981,7 +1981,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.729813, 30.434580445246],
@@ -1990,7 +1990,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.710394, 30.4443149179036],
@@ -1999,7 +1999,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.709797, 30.4429235892111],
@@ -2008,7 +2008,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.708947, 30.4416850340894],
@@ -2017,7 +2017,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.708558, 30.4411375643637],
@@ -2026,7 +2026,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.707708, 30.4395757885363],
@@ -2035,7 +2035,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.707156, 30.4384986839143],
@@ -2044,7 +2044,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.706803, 30.4377267361403],
@@ -2053,7 +2053,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.706866, 30.4358861346998],
@@ -2062,7 +2062,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.706883, 30.4348266778049],
@@ -2071,7 +2071,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.706828, 30.4333273222696],
@@ -2080,7 +2080,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.707116, 30.4314596679264],
@@ -2089,7 +2089,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.707531, 30.4301216676577],
@@ -2098,7 +2098,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.707856, 30.4290620461599],
@@ -2107,7 +2107,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.708532, 30.4274725104441],
@@ -2116,7 +2116,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.736661, 30.434612458267],
@@ -2125,7 +2125,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.738251, 30.4340818206744],
@@ -2134,7 +2134,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.740238, 30.4337394991187],
@@ -2143,7 +2143,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.741964, 30.433711570105],
@@ -2152,7 +2152,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.743102, 30.4338006975117],
@@ -2161,7 +2161,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.743843, 30.4338720969315],
@@ -2170,7 +2170,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.745379, 30.4340148631824],
@@ -2179,7 +2179,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.746472, 30.4340501433361],
@@ -2188,7 +2188,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.7479, 30.434426409002],
@@ -2197,7 +2197,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.748912, 30.4350363548119],
@@ -2206,7 +2206,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.748957, 30.435072242317],
@@ -2215,7 +2215,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.749879, 30.4355744990941],
@@ -2224,7 +2224,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.751253, 30.4365254151714],
@@ -2233,7 +2233,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.751967, 30.4370996204543],
@@ -2242,7 +2242,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.753187, 30.4380865400265],
@@ -2251,7 +2251,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kintu",
       description: "Completed in 2015, Kintu tap stands each serve about 175 people.",
       location: [-0.754037, 30.438499053554],
@@ -2260,7 +2260,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.758046, 30.360691498887],
@@ -2269,7 +2269,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.759596, 30.3544778418796],
@@ -2278,7 +2278,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.754661, 30.3362917807907],
@@ -2287,7 +2287,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.754182, 30.3352865651738],
@@ -2296,7 +2296,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.78996, 30.3555722625898],
@@ -2305,7 +2305,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.79001, 30.4057510885805],
@@ -2314,7 +2314,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.774838, 30.3849668577452],
@@ -2323,7 +2323,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.777737, 30.3702140605823],
@@ -2332,7 +2332,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.776993, 30.3647199712516],
@@ -2341,7 +2341,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.780839, 30.3750692708279],
@@ -2350,7 +2350,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.78488, 30.3788644963613],
@@ -2359,7 +2359,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.788144, 30.3842134348259],
@@ -2368,7 +2368,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.803197, 30.4003109435998],
@@ -2377,7 +2377,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.793147, 30.4086132295842],
@@ -2386,7 +2386,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.756409, 30.3283005421162],
@@ -2395,7 +2395,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.790748, 30.3876504516444],
@@ -2404,7 +2404,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.790396, 30.3877943230978],
@@ -2413,7 +2413,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.793119, 30.3937092683387],
@@ -2422,7 +2422,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.788374, 30.3907135020298],
@@ -2431,7 +2431,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.799021, 30.3981946980002],
@@ -2440,7 +2440,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.793571, 30.3941130065686],
@@ -2449,7 +2449,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.803678, 30.4471962824807],
@@ -2458,7 +2458,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.804433, 30.4400488270349],
@@ -2467,7 +2467,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.804182, 30.4438469369787],
@@ -2476,7 +2476,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.802278, 30.4327865051144],
@@ -2485,7 +2485,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.795574, 30.4176260213314],
@@ -2494,7 +2494,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.786472, 30.3820058515276],
@@ -2503,7 +2503,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.770213, 30.3714217547627],
@@ -2512,7 +2512,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.767829, 30.3743680116393],
@@ -2521,7 +2521,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.768231, 30.3656141945035],
@@ -2530,7 +2530,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.796699, 30.4256251231938],
@@ -2539,7 +2539,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.79835, 30.4213593234019],
@@ -2548,7 +2548,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.794212, 30.4078224708925],
@@ -2557,7 +2557,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.794204, 30.4094296016059],
@@ -2566,7 +2566,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.794665, 30.4087290026507],
@@ -2575,7 +2575,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.752628, 30.3354401312924],
@@ -2584,7 +2584,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.755147, 30.3332659869],
@@ -2593,7 +2593,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.752827, 30.3351976117476],
@@ -2602,7 +2602,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.753088, 30.3344433231197],
@@ -2611,7 +2611,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.753305, 30.3346047904417],
@@ -2620,7 +2620,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.753656, 30.3326115214961],
@@ -2629,7 +2629,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.75382, 30.3333835063845],
@@ -2638,7 +2638,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.754524, 30.3325032606374],
@@ -2647,7 +2647,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.785576, 30.3939833145646],
@@ -2656,7 +2656,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.763628, 30.3585513555613],
@@ -2665,7 +2665,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.79602, 30.3954312748881],
@@ -2674,7 +2674,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.772699, 30.3752269236327],
@@ -2683,7 +2683,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.783303, 30.3861287967757],
@@ -2692,7 +2692,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.778414, 30.3838334113681],
@@ -2701,7 +2701,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.795344, 30.3978378762022],
@@ -2710,7 +2710,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.765201, 30.3608128348695],
@@ -2719,7 +2719,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.800903, 30.4308749335371],
@@ -2728,7 +2728,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.752339, 30.3354582622818],
@@ -2737,7 +2737,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.792887, 30.4126267212364],
@@ -2746,7 +2746,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.761234, 30.3438111507179],
@@ -2755,7 +2755,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.764832, 30.3478579482622],
@@ -2764,7 +2764,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.773714, 30.3500610198035],
@@ -2773,7 +2773,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.774074, 30.3484537547371],
@@ -2782,7 +2782,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.774381, 30.3485164089243],
@@ -2791,7 +2791,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.77993, 30.3517270357555],
@@ -2800,7 +2800,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.782749, 30.3517522034063],
@@ -2809,7 +2809,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kinyamufura",
       description: "Completed in 2008, Kinyamufura tap stands each serve about 175 people.",
       location: [-0.786824, 30.3536709169119],
@@ -2818,7 +2818,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.879217, 30.3831566942844],
@@ -2827,7 +2827,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.881538, 30.3817454714779],
@@ -2836,7 +2836,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.887241, 30.3847402541445],
@@ -2845,7 +2845,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.88492, 30.3859180527902],
@@ -2854,7 +2854,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.883916, 30.3843654936343],
@@ -2863,7 +2863,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.901475, 30.4040339520996],
@@ -2872,7 +2872,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.898366, 30.4031382950504],
@@ -2881,7 +2881,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.914628, 30.4283029414439],
@@ -2890,7 +2890,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.916711, 30.4355832688663],
@@ -2899,7 +2899,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.920084, 30.4388042721572],
@@ -2908,7 +2908,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.922929, 30.4380300559336],
@@ -2917,7 +2917,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.908234, 30.4192748785783],
@@ -2926,7 +2926,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.922626, 30.4317091671565],
@@ -2935,7 +2935,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.923975, 30.4350842411267],
@@ -2944,7 +2944,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.926934, 30.4424807121099],
@@ -2953,7 +2953,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.927287, 30.4425971848796],
@@ -2962,7 +2962,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.923405, 30.4469637191333],
@@ -2971,7 +2971,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.920771, 30.4526492680865],
@@ -2980,7 +2980,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.916137, 30.4542328473522],
@@ -2989,7 +2989,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.910499, 30.4528899755984],
@@ -2998,7 +2998,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.908824, 30.4481951760102],
@@ -3007,7 +3007,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.894329, 30.3920616622172],
@@ -3016,7 +3016,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.900286, 30.3963760986965],
@@ -3025,7 +3025,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.895877, 30.396971801377],
@@ -3034,7 +3034,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.903381, 30.3916422261575],
@@ -3043,7 +3043,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.903442, 30.401608342939],
@@ -3052,7 +3052,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.903852, 30.4065552475262],
@@ -3061,7 +3061,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.941899, 30.3982942401109],
@@ -3070,7 +3070,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.948866, 30.4006055446259],
@@ -3079,7 +3079,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.950622, 30.4042585566748],
@@ -3088,7 +3088,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.947252, 30.4044586012543],
@@ -3097,7 +3097,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.943268, 30.4052696422363],
@@ -3106,7 +3106,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.938941, 30.4052459061695],
@@ -3115,7 +3115,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.934695, 30.4051682237881],
@@ -3124,7 +3124,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.93034, 30.404884097848],
@@ -3133,7 +3133,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.934051, 30.4022147203626],
@@ -3142,7 +3142,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.929723, 30.4013110519913],
@@ -3151,7 +3151,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.925661, 30.4057315024087],
@@ -3160,7 +3160,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.923318, 30.4021417537322],
@@ -3169,7 +3169,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.92222, 30.406946116457],
@@ -3178,7 +3178,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.918868, 30.4072538126608],
@@ -3187,7 +3187,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.915777, 30.4056219292379],
@@ -3196,7 +3196,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.912724, 30.4058126732294],
@@ -3205,7 +3205,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.907748, 30.4083392203441],
@@ -3214,7 +3214,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.908173, 30.4089404850576],
@@ -3223,7 +3223,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.905173, 30.4080716938396],
@@ -3232,7 +3232,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.904458, 30.4072282123075],
@@ -3241,7 +3241,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.917316, 30.4091853394279],
@@ -3250,7 +3250,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.913035, 30.411127800072],
@@ -3259,7 +3259,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.898903, 30.4088303345185],
@@ -3268,7 +3268,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.899718, 30.4113347917351],
@@ -3277,7 +3277,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.894571, 30.414525820966],
@@ -3286,7 +3286,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.893373, 30.4193392124395],
@@ -3295,7 +3295,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.896436, 30.4209352737454],
@@ -3304,7 +3304,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.900333, 30.4244072974038],
@@ -3313,7 +3313,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.908838, 30.4298154853233],
@@ -3322,7 +3322,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.899653, 30.4337097543658],
@@ -3331,7 +3331,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.90402, 30.4387258463831],
@@ -3340,7 +3340,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.901623, 30.4219192887391],
@@ -3349,7 +3349,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.90184, 30.4227810911237],
@@ -3358,7 +3358,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.906807, 30.4202006961822],
@@ -3367,7 +3367,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.907891, 30.4197958863954],
@@ -3376,7 +3376,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.907186, 30.4192307285315],
@@ -3385,7 +3385,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.904613, 30.4209654383399],
@@ -3394,7 +3394,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.902652, 30.4205089087321],
@@ -3403,7 +3403,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.907939, 30.4112302019962],
@@ -3412,7 +3412,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.908256, 30.4117238019091],
@@ -3421,7 +3421,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.905454, 30.4101545329975],
@@ -3430,7 +3430,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.905121, 30.4114117776586],
@@ -3439,7 +3439,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.907111, 30.4019918085406],
@@ -3448,7 +3448,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.907218, 30.4008873680131],
@@ -3457,7 +3457,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.907856, 30.3957781197017],
@@ -3466,7 +3466,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.912247, 30.39697809281],
@@ -3475,7 +3475,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.908694, 30.3922848764369],
@@ -3484,7 +3484,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.905403, 30.3894500315452],
@@ -3493,7 +3493,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.905977, 30.4212966857325],
@@ -3502,7 +3502,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.906194, 30.4208745334281],
@@ -3511,7 +3511,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyakyera",
       description: "Completed in 2010, Nyakyera tap stands each serve about 175 people.",
       location: [-0.906311, 30.4212605344021],
@@ -3520,7 +3520,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand -  Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.968651762, 30.38223825],
@@ -3529,7 +3529,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.972488267, 30.38797263],
@@ -3538,7 +3538,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.970783735, 30.39260692],
@@ -3547,7 +3547,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.96964887, 30.39762688],
@@ -3556,7 +3556,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.967399774, 30.3993525],
@@ -3565,7 +3565,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.965157815, 30.39862693],
@@ -3574,7 +3574,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.956045742, 30.39617368],
@@ -3583,7 +3583,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.953170814, 30.3950176],
@@ -3592,7 +3592,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand -  Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.972760166, 30.4005336],
@@ -3601,7 +3601,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.974156142, 30.40584795],
@@ -3610,7 +3610,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.970834445, 30.39970005],
@@ -3619,7 +3619,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.970833384, 30.39833529],
@@ -3628,7 +3628,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.976077236, 30.40073757],
@@ -3637,7 +3637,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyarubumba",
       description: "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
       location: [-0.853571, 30.3849071165095],
@@ -3646,7 +3646,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyarubumba",
       description: "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
       location: [-0.85561, 30.3952308514984],
@@ -3655,7 +3655,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyarubumba",
       description: "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
       location: [-0.860346, 30.398379072025],
@@ -3664,7 +3664,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyarubumba",
       description: "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
       location: [-0.853007, 30.3932573609282],
@@ -3673,7 +3673,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyarubumba",
       description: "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
       location: [-0.862697, 30.4010620322081],
@@ -3682,7 +3682,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyarubumba",
       description: "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
       location: [-0.867705, 30.4049193698276],
@@ -3691,7 +3691,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyarubumba",
       description: "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
       location: [-0.8649, 30.3994444123309],
@@ -3700,7 +3700,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyarubumba",
       description: "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
       location: [-0.854549, 30.3894943852777],
@@ -3709,7 +3709,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyarubumba",
       description: "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
       location: [-0.851729, 30.3870452007231],
@@ -3718,7 +3718,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Nyarubumba",
       description: "Completed in 2009, Nyarubumba tap stands each serve about 175 people.",
       location: [-0.85357, 30.384745506847],
@@ -3727,7 +3727,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.812284, 30.5120903606388],
@@ -3736,7 +3736,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.803574, 30.5114581459779],
@@ -3745,7 +3745,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.785451, 30.5140370083155],
@@ -3754,7 +3754,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.787293, 30.5128506799526],
@@ -3763,7 +3763,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.786633, 30.5118813321433],
@@ -3772,7 +3772,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.788475, 30.5103537987818],
@@ -3781,7 +3781,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.790366, 30.5142046958223],
@@ -3790,7 +3790,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.794414, 30.5155850624924],
@@ -3799,7 +3799,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.79557, 30.5143183179072],
@@ -3808,7 +3808,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.796935, 30.5146856433408],
@@ -3817,7 +3817,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.797016, 30.5149459885052],
@@ -3826,7 +3826,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.799527, 30.5128703075934],
@@ -3835,7 +3835,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.801812, 30.5124558908192],
@@ -3844,7 +3844,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.80885, 30.5118230838704],
@@ -3853,7 +3853,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.812311, 30.5120723858208],
@@ -3862,7 +3862,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.817924, 30.5155977426531],
@@ -3871,7 +3871,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.82002, 30.515623388732],
@@ -3880,7 +3880,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.822546, 30.524547149559],
@@ -3889,7 +3889,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.823596, 30.5261358269608],
@@ -3898,7 +3898,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.825421, 30.5260898035509],
@@ -3907,7 +3907,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.819215, 30.5290926922585],
@@ -3916,7 +3916,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.821008, 30.5209564123979],
@@ -3925,7 +3925,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.820447, 30.5197086500422],
@@ -3934,7 +3934,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.816933, 30.519917332142],
@@ -3943,7 +3943,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.814186, 30.5198830976362],
@@ -3952,7 +3952,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.807978, 30.5192942539299],
@@ -3961,7 +3961,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.80544, 30.5193227298084],
@@ -3970,7 +3970,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.803425, 30.51885703173],
@@ -3979,7 +3979,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.801084, 30.5181221530477],
@@ -3988,7 +3988,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.799069, 30.5184286548639],
@@ -3997,7 +3997,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.793857, 30.5202904537634],
@@ -4006,7 +4006,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.79206, 30.5217820603309],
@@ -4015,7 +4015,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.798632, 30.5127271804109],
@@ -4024,7 +4024,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.792514, 30.5106566801917],
@@ -4033,7 +4033,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.794142, 30.5130890369634],
@@ -4042,7 +4042,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.7933, 30.5106023360156],
@@ -4051,7 +4051,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.792705, 30.512138113127],
@@ -4060,7 +4060,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.79115, 30.5116002961076],
@@ -4069,7 +4069,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.794844, 30.5093712795779],
@@ -4078,7 +4078,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.791413, 30.5126057957855],
@@ -4087,7 +4087,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.801176, 30.5053358704312],
@@ -4096,7 +4096,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.807201, 30.504102079247],
@@ -4105,7 +4105,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.812468, 30.5029315779761],
@@ -4114,7 +4114,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.81807, 30.503269329486],
@@ -4123,7 +4123,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.818323, 30.5031704032522],
@@ -4132,7 +4132,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.820472, 30.5017503784204],
@@ -4141,7 +4141,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.820273, 30.5010860513126],
@@ -4150,7 +4150,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.820191, 30.5006371489668],
@@ -4159,7 +4159,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.818871, 30.4987703256707],
@@ -4168,7 +4168,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.820454, 30.5009243161046],
@@ -4177,7 +4177,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.821501, 30.4992625400374],
@@ -4186,7 +4186,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.822328, 30.4932370940966],
@@ -4195,7 +4195,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.824822, 30.4934151155452],
@@ -4204,7 +4204,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.827977, 30.4960529730213],
@@ -4213,7 +4213,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.824266, 30.5006615505828],
@@ -4222,7 +4222,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.829051, 30.4940499725992],
@@ -4231,7 +4231,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.82254, 30.5004920237991],
@@ -4240,7 +4240,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.82264, 30.5004650247478],
@@ -4249,7 +4249,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.823163, 30.499674541321],
@@ -4258,7 +4258,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.822414, 30.5012463436838],
@@ -4267,7 +4267,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.822432, 30.5012732696317],
@@ -4276,7 +4276,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.821637, 30.5012198897625],
@@ -4285,7 +4285,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.819845, 30.5105772181841],
@@ -4294,7 +4294,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.815805, 30.5073921265361],
@@ -4303,7 +4303,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.813545, 30.5061005275833],
@@ -4312,7 +4312,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.812307, 30.5059217059501],
@@ -4321,7 +4321,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.811595, 30.5090109480388],
@@ -4330,7 +4330,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.786266, 30.5031808680642],
@@ -4339,7 +4339,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.742118, 30.4821599803051],
@@ -4348,7 +4348,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.740267, 30.4837772042819],
@@ -4357,7 +4357,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.740459, 30.4881407864175],
@@ -4366,7 +4366,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.742012, 30.4856886995523],
@@ -4375,7 +4375,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.743034, 30.4886331680932],
@@ -4384,7 +4384,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.744247, 30.4913620447157],
@@ -4393,7 +4393,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.743777, 30.4913443525762],
@@ -4402,7 +4402,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.750572, 30.4929656678569],
@@ -4411,7 +4411,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.751756, 30.493324147234],
@@ -4420,7 +4420,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.753835, 30.4947057054347],
@@ -4429,7 +4429,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.756438, 30.4969848516967],
@@ -4438,7 +4438,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.762485, 30.5007166026053],
@@ -4447,7 +4447,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.746198, 30.4904899934694],
@@ -4456,7 +4456,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.74046, 30.4899545051623],
@@ -4465,7 +4465,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.74113, 30.4914356337713],
@@ -4474,7 +4474,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.742929, 30.4933022177848],
@@ -4483,7 +4483,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.745044, 30.4951686248822],
@@ -4492,7 +4492,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.74687, 30.4962181194722],
@@ -4501,7 +4501,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.749427, 30.4965309298272],
@@ -4510,7 +4510,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.752662, 30.4980465203225],
@@ -4519,7 +4519,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.754913, 30.5004066877221],
@@ -4528,7 +4528,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.758952, 30.5013561400702],
@@ -4537,7 +4537,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.758953, 30.5019038548106],
@@ -4546,7 +4546,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.758989, 30.5018858761989],
@@ -4555,7 +4555,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.75552, 30.5032526607721],
@@ -4564,7 +4564,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.756388, 30.5036472383231],
@@ -4573,7 +4573,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.761357, 30.5033211457622],
@@ -4582,7 +4582,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.764456, 30.5040017590631],
@@ -4591,7 +4591,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.765921, 30.505706916301],
@@ -4600,7 +4600,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.765678, 30.5077093697141],
@@ -4609,7 +4609,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.766149, 30.5088404509959],
@@ -4618,7 +4618,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.767044, 30.5110757058124],
@@ -4627,7 +4627,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.766831, 30.5162297938227],
@@ -4636,7 +4636,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.766672, 30.5230450014864],
@@ -4645,7 +4645,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.764939, 30.525883393135],
@@ -4654,7 +4654,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.762899, 30.5294941666425],
@@ -4663,7 +4663,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.764174, 30.5318100570268],
@@ -4672,7 +4672,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.765448, 30.5314052671692],
@@ -4681,7 +4681,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.765944, 30.5297079248013],
@@ -4690,7 +4690,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.766983, 30.5287824781248],
@@ -4699,7 +4699,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.768842, 30.5264468352112],
@@ -4708,7 +4708,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.767779, 30.5318259516463],
@@ -4717,7 +4717,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.771459, 30.5364930094735],
@@ -4726,7 +4726,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.773518, 30.5332503356533],
@@ -4735,7 +4735,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.776519, 30.5356819601],
@@ -4744,7 +4744,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.77996, 30.5338661625469],
@@ -4753,7 +4753,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.76632, 30.5239969881736],
@@ -4762,7 +4762,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.768812, 30.5211940757322],
@@ -4771,7 +4771,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.770284, 30.5201247140777],
@@ -4780,7 +4780,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.774217, 30.5233818483016],
@@ -4789,7 +4789,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.776966, 30.5274208595713],
@@ -4798,7 +4798,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.784241, 30.5300564845524],
@@ -4807,7 +4807,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.78668, 30.5300460723452],
@@ -4816,7 +4816,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.789119, 30.5293263000106],
@@ -4825,7 +4825,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.771449, 30.518588617138],
@@ -4834,7 +4834,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.775416, 30.5189275173002],
@@ -4843,7 +4843,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.788461, 30.5170970950405],
@@ -4852,7 +4852,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.786826, 30.5171788752752],
@@ -4861,7 +4861,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.785281, 30.5167667501025],
@@ -4870,7 +4870,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.783274, 30.5159867527542],
@@ -4879,7 +4879,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.782, 30.5154667163052],
@@ -4888,7 +4888,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.784668, 30.5192453433504],
@@ -4897,7 +4897,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.779517, 30.5173807186007],
@@ -4906,7 +4906,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.780647, 30.5188436477749],
@@ -4915,7 +4915,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.764273, 30.4997907391773],
@@ -4924,7 +4924,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.764426, 30.4992608936065],
@@ -4933,7 +4933,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.768166, 30.4979837153515],
@@ -4942,7 +4942,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.770595, 30.4958812309701],
@@ -4951,7 +4951,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.77156, 30.4925494919045],
@@ -4960,7 +4960,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.766364, 30.490622066551],
@@ -4969,7 +4969,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.773566, 30.49330254305],
@@ -4978,7 +4978,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.772709, 30.4956465421021],
@@ -4987,7 +4987,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.775454, 30.492663930732],
@@ -4996,7 +4996,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.77623, 30.4901493822646],
@@ -5005,7 +5005,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.77545, 30.486414629467],
@@ -5014,7 +5014,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.775061, 30.4851039459967],
@@ -5023,7 +5023,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.776643, 30.4861266014994],
@@ -5032,7 +5032,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.774509, 30.4833623757353],
@@ -5041,7 +5041,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.775667, 30.4851035885813],
@@ -5050,7 +5050,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.77647, 30.4847529381711],
@@ -5059,7 +5059,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.777481, 30.48332470265],
@@ -5068,7 +5068,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.777256, 30.4839264190002],
@@ -5077,7 +5077,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.777516, 30.4812236338102],
@@ -5086,7 +5086,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.778346, 30.4794094183335],
@@ -5095,7 +5095,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.778445, 30.4781972195316],
@@ -5104,7 +5104,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.778968, 30.4767333627515],
@@ -5113,7 +5113,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.779382, 30.474039477957],
@@ -5122,7 +5122,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.781802, 30.4707158854091],
@@ -5131,7 +5131,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.78369, 30.4711457343653],
@@ -5140,7 +5140,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.783879, 30.4695025063971],
@@ -5149,7 +5149,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.786868, 30.4680102324436],
@@ -5158,7 +5158,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.791068, 30.4657630019562],
@@ -5167,7 +5167,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.794401, 30.4637317766093],
@@ -5176,7 +5176,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.770167, 30.5046628916251],
@@ -5185,7 +5185,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.770989, 30.5043481488028],
@@ -5194,7 +5194,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.770374, 30.5038187473285],
@@ -5203,7 +5203,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.773274, 30.503008947927],
@@ -5212,7 +5212,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.773039, 30.5034580337727],
@@ -5221,7 +5221,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.77164, 30.5050391509201],
@@ -5230,7 +5230,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.775505, 30.5013375531854],
@@ -5239,7 +5239,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.776561, 30.4997296988091],
@@ -5248,7 +5248,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.779253, 30.498973880786],
@@ -5257,7 +5257,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.78114, 30.4970422904939],
@@ -5266,7 +5266,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.785424, 30.4995807946912],
@@ -5275,7 +5275,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.788571, 30.5039067959777],
@@ -5284,7 +5284,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.78642, 30.503180776753],
@@ -5293,7 +5293,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.790232, 30.5015892211592],
@@ -5302,7 +5302,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.793777, 30.4929403421749],
@@ -5311,7 +5311,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.790146, 30.4946844404894],
@@ -5320,7 +5320,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.785077, 30.4933316500844],
@@ -5329,7 +5329,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.784236, 30.4924701738971],
@@ -5338,7 +5338,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.785166, 30.4918949685674],
@@ -5347,7 +5347,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.784089, 30.4877832723423],
@@ -5356,7 +5356,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.784051, 30.4856552993766],
@@ -5365,7 +5365,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.787978, 30.4804541859022],
@@ -5374,7 +5374,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.791007, 30.4830113380363],
@@ -5383,7 +5383,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.794844, 30.4787440578841],
@@ -5392,7 +5392,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.795099, 30.4831704840977],
@@ -5401,7 +5401,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.796375, 30.4851540459402],
@@ -5410,7 +5410,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.794894, 30.486232411182],
@@ -5419,7 +5419,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.805613, 30.4929241780449],
@@ -5428,7 +5428,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.808857, 30.4929132114275],
@@ -5437,7 +5437,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.811615, 30.4965749464634],
@@ -5446,7 +5446,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.811806, 30.4984783808331],
@@ -5455,7 +5455,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.80503, 30.4997036755994],
@@ -5464,7 +5464,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.806691, 30.4981043970446],
@@ -5473,7 +5473,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.807973, 30.495571533952],
@@ -5482,7 +5482,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.805876, 30.4945581913266],
@@ -5491,7 +5491,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.784854, 30.4838680244113],
@@ -5500,7 +5500,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rubingo",
       description: "Completed 2001-2007, Rubingo tap stands each serve about 175 people.",
       location: [-0.792932, 30.4996481405393],
@@ -5509,7 +5509,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.959096, 30.3234373724152],
@@ -5518,7 +5518,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.963091, 30.326208509474],
@@ -5527,7 +5527,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.969451, 30.325575061554],
@@ -5536,7 +5536,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.972603, 30.3249261534424],
@@ -5545,7 +5545,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.978554, 30.3218958025442],
@@ -5554,7 +5554,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.978369, 30.3169848988939],
@@ -5563,7 +5563,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.976315, 30.3121293716535],
@@ -5572,7 +5572,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.974224, 30.3071930926138],
@@ -5581,7 +5581,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.972014, 30.3004164400929],
@@ -5590,7 +5590,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.96883, 30.2950770753998],
@@ -5599,7 +5599,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.964131, 30.2930248501512],
@@ -5608,7 +5608,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.961953, 30.2921198004511],
@@ -5617,7 +5617,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.966701, 30.3324006444589],
@@ -5626,7 +5626,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.963166, 30.3403670973261],
@@ -5635,7 +5635,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.959655, 30.3450654536831],
@@ -5644,7 +5644,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.982937, 30.3241099296845],
@@ -5653,7 +5653,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand - Rwera",
       description: "Completed in 2016, Rwera tap stands each serve about 175 people.",
       location: [-0.981845, 30.3146119027857],
@@ -5662,7 +5662,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand -Buhanama",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.945719004, 30.42485948],
@@ -5671,7 +5671,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand -Buhanama",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.9499549, 30.43293733],
@@ -5680,7 +5680,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand, Double - Buhanama",
       description: "Completed in 2014, Buhanama tap stands each serve about 175 people.",
       location: [-0.750812357, 30.29111896],
@@ -5689,7 +5689,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand, Kaberbere School",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.948266946, 30.41181141],
@@ -5698,7 +5698,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand, Kaberbere School - Buhanama",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.948266946, 30.41181141],
@@ -5707,7 +5707,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand, Kaberbere",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.942728585, 30.41437446],
@@ -5716,7 +5716,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand, Kaberbere - Buhanama",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.942728585, 30.41437446],
@@ -5725,7 +5725,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand, Kasanda School",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.958391028, 30.41382407],
@@ -5734,7 +5734,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand, Kasanda School - Buhanama",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.958391028, 30.41382407],
@@ -5743,7 +5743,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand, Kasanda ",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.966509633, 30.41705033],
@@ -5752,7 +5752,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand, Kasanda - Buhanama",
       description: "Completed in 2014, Kasanda tap stands each serve about 175 people.",
       location: [-0.966509633, 30.41705033],
@@ -5761,7 +5761,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand, Mitooma -  Nyamugandika, Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.973331169, 30.40260725],
@@ -5770,7 +5770,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand, Nyakakongi -  Nyamugandika, Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.96453876, 30.39283616],
@@ -5779,7 +5779,7 @@ module ProjectSeeds
       completion_date: Date.new(2014, 7, 20)
     },
     {
-      type_id: 1,
+      project_type_id: 1,
       name: "Tapstand, Top Care Preparatory School - Kishororo",
       description: "Completed in 2014, Kishororo tap stands each serve about 175 people.",
       location: [-0.96563783, 30.39992848],

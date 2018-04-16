@@ -4,5 +4,14 @@ module Api::V1
       @projects = Project.all
       render json: @projects
     end
+
+    def show
+      @project = Project.includes(:photos, :project_types).find(params[:id])
+    
+    
+      @photos = @project.photos
+      
+      render json: @project
+    end
   end
 end

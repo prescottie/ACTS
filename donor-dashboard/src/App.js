@@ -5,9 +5,9 @@ import Counter from './containers/CounterContainer'
 import About from './components/About'
 import Navbar from './components/Navbar'
 import './App.css';
+import ProjectContainer from './containers/ProjectContainer';
 
 class App extends Component {
-
 
   render() {
     return (
@@ -15,7 +15,7 @@ class App extends Component {
         <Navbar />
         <main className="Main">
           <Route exact path="/" component={Home} />
-          <Route exact path="/counter" component={Counter} />
+          <Route path="/projects/:id" component={ProjectContainer} />
           <Route exact path="/about-us" component={About} />
         </main>
     </div>

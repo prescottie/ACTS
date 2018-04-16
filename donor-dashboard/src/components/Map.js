@@ -61,14 +61,13 @@ class Map extends React.Component {
     const markers = projects.map((p, i) => {
       return (
           <Marker 
-            data-proj-type={p['ID']}
-            data-description={p.Description}
-            data-lat={p.Latitude}
-            data-lng={p.Longitude}
-            name={p.Name}
+            data-proj-type={p.type_id}
+            data-description={p.description}
+            data-lat={p.location.x}
+            data-lng={p.location.y}
+            name={p.name}
             onClick={onMarkerClick}
-            position={{lat: p.Latitude, lng: p.Longitude}}
-            
+            position={{lat: p.location.x, lng: p.location.y}}
           />
       );
     });
@@ -83,7 +82,7 @@ class Map extends React.Component {
             <div className="iw">
               <h2 className="iw-title">{activeMarker.name}</h2>
               <div className="iw-content">
-                <img className="iw-pic" alt src='/tapstand.png' width='100' height='80'/>
+                <img className="iw-pic" alt="Project Picture" src='/tapstand.png' width='100' height='80'/>
                 <p>{activeMarker['data-description']}</p>
                 <p>Coordinates: {activeMarker['data-lat']}, {activeMarker['data-lat']}</p>
               </div>
