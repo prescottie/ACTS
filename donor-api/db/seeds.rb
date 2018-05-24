@@ -24,7 +24,7 @@ ProjectType.destroy_all
 projectTypes = ['tapstand', 'source', 'resevoir', 'break pressure tank', 'sediment tank']
 
 projectTypes.each do |type|
-  ProjectType.create!(name: type)
+  ProjectType.create!(project_type: type)
 end
 
 puts "Re-creating Projects"

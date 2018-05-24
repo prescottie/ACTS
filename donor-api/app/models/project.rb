@@ -1,4 +1,4 @@
 class Project < ApplicationRecord
   has_many :photos
-  has_one :project_type
+  belongs_to :project_type
 end

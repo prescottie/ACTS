@@ -17,7 +17,7 @@ ActiveRecord::Schema.define(version: 20180413212546) do
   enable_extension "postgis"
   
   create_table "project_types", force: :cascade do |t|
-    t.string "name"
+    t.string "project_type"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

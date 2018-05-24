@@ -1,7 +1,7 @@
 // import { push } from 'react-router-redux';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
-import Map from '../components/Map.js';
+import Map from '../components/Map2.js';
 import {fetchProjects, onMapClicked, onMarkerClick} from '../actions/map';
 
 const mapStateToProps = ({map}) => ({

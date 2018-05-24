@@ -5,6 +5,8 @@ const initialState = {
   center: { lat: -0.390580, lng: 30.181807 },
   zoom: 8,
   projects: [],
+  width: '80%',
+  height: '100%',
   showingInfoWindow: false,
   activeMarker: {},
   selectedPlace: {},
