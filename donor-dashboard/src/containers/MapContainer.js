@@ -11,6 +11,8 @@ const mapStateToProps = ({map}) => ({
   activeMarker: map.activeMarker,
   selectedPlace: map.selectedPlace,
   showingInfoWindow: map.showingInfoWindow,
+  width: map.width,
+  height: map.height,
 });
 
 const mapDispatchToProps = (dispatch) => bindActionCreators({

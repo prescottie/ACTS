@@ -8,7 +8,7 @@ class Home extends React.Component {
     return(
       <div className="Home">
         <MapContainer />
-        <FilterContainer />
+        {/* <FilterContainer /> */}
       </div>
     );
   }

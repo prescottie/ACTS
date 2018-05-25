@@ -2,11 +2,11 @@ import {PROJECTS_UPDATE, MARKER_UPDATE, MAP_UPDATE} from '../actions/map'
 
 
 const initialState = {
-  center: { lat: -0.390580, lng: 30.181807 },
+  center:  [30.181807,-0.390580],
   zoom: 8,
   projects: [],
-  width: '80%',
-  height: '100%',
+  width: window.innerWidth,
+  height: window.innerHeight,
   showingInfoWindow: false,
   activeMarker: {},
   selectedPlace: {},
