@@ -84,3 +84,83 @@ h1, h2, h3, h4 {
   margin-left: 4px;
 }
 
+.img-dot, .active-img-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin: 3px;
+  opacity: 0.8;
+  background: #ccc;
+}
+
+.img-dot:hover {
+  background: #000;
+}
+
+.active-img-dot {
+  background: #000;
+}
+
+.img-dots {
+  display: flex;
+  justify-content: center;
+  flex: 0 0 100%;
+}
+
+.chevron-right, .chevron-left {
+  opacity: .8;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.chevron-left {
+  left: 0;
+}
+
+.chevron-right {
+  right: 0;
+}
+
+.chevron-left:hover path, .chevron-right:hover path {
+  fill: #000;
+  opacity: 1;
+}
+
+.drawer-completion-date, .drawer-pop {
+  display: flex;
+  align-items: center;
+}
+
+.drawer-heading {
+  color: #506187;
+}
+
+.drawer-completion-date strong, .drawer-pop strong {
+  flex-grow: 0.5;
+}
+
+.drawer-completion-date p, .drawer-pop p {
+  text-align: end;
+}
+
+.drawer-close {
+  border: 2px solid #506187;
+  border-radius: 50%;
+  padding: 5px;
+  display: flex;
+  width: 10px;
+  height: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: #506187;
+}
+
+.drawer-close:hover{
+  background: #506187;
+  color: #fff;
+  cursor: pointer;
+}

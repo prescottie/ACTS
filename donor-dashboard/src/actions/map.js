@@ -21,7 +21,7 @@ export const onMarkerClick = (props,marker) => async (dispatch) => {
 }
 
 export const onMapClicked = (props) => async (dispatch) => {
-  console.log(props.showingInfoWindow)
+  // console.log(props.showingInfoWindow)
   if(props.showingInfoWindow) {
     dispatch(mapUpdate(props));
   }
@@ -31,7 +31,7 @@ export const onMapClicked = (props) => async (dispatch) => {
 export const fetchProjects = () => async (dispatch) => {
   try {
     const res = await axios.get('http://localhost:3001/api/v1/projects');
-    console.log(res);
+    // console.log(res);
     dispatch(projectsUpdate(res.data));
   } catch (error) {
     console.error(error);
