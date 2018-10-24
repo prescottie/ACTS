@@ -27,7 +27,6 @@ export const onMapClicked = (props) => async (dispatch) => {
   }
 }
 
-
 export const fetchProjects = () => async (dispatch) => {
   try {
     const res = await axios.get('http://localhost:3001/api/v1/projects');

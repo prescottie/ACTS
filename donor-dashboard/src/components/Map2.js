@@ -4,8 +4,21 @@ import MapGL, {Marker, Popup, NavigationControl} from 'react-map-gl';
 import mapboxgl from 'mapbox-gl';
 // import ProjectInfo from './ProjectInfo';
 import config from '../config';
+import firebase from '../firebase';
+// import '@firebase/firestore';
+// import { FirestoreProvider } from 'react-firestore';
 
-// const TOKEN = "pk.eyJ1Ijoid2luZS1tYXBzIiwiYSI6ImNqaDg4a2VjNDBoM2cyd3F4c25oMnN2MzYifQ.zHiHDDxiarb4jgK32Ya5tw"
+// const config = {
+//   apiKey: "AIzaSyDKE67gyXHioqDq1w_vWnn-sZLzCIeYaPE",
+//   authDomain: "donor-dashboard-1523321520302.firebaseapp.com",
+//   databaseURL: "https://donor-dashboard-1523321520302.firebaseio.com",
+//   projectId: "donor-dashboard-1523321520302",
+//   storageBucket: "donor-dashboard-1523321520302.appspot.com",
+//   messagingSenderId: "279127597310"
+// };
+// firebase.initializeApp(config);
+
+const TOKEN = "pk.eyJ1Ijoid2luZS1tYXBzIiwiYSI6ImNqaDg4a2VjNDBoM2cyd3F4c25oMnN2MzYifQ.zHiHDDxiarb4jgK32Ya5tw"
 const navStyle = {
   position: 'absolute',
   top: 0,
@@ -54,15 +67,83 @@ class Map extends React.Component {
         padding: "20px",
         backgroundColor: '#ffffff99',
         transition: 'left 0.25s ease-in',
-        color: "#333"
-        // msTransition: 'left 1.5s ease', 
-      }
+        color: "#333",
+        msTransition: 'left 0.25ss ease', 
+      },
+      projects: [],
+      taps: {},
+      sources: {},
+      breakTanks: {},
+      resevoirs: {},
+      sedTanks: {},
     };
   }
   
 
   componentDidMount() {
+    var db = firebase.firestore();
+    db.settings({
+      timestampsInSnapshots: true
+    });
+    db.collection("projects").get().then((querySnapshot) => {
+      const allData = []
+      querySnapshot.forEach((doc) => {
+          allData.push(doc.data());
+      });
+      this.setState({projects: allData})
+    })
+    let taps = {
+      "type": "FeatureCollection",
+      "features": []
+    }
+    let sources = {
+      "type": "FeatureCollection",
+      "features": []
+    }
+    let resevoirs = {
+      "type": "FeatureCollection",
+      "features": []
+    }
+    let breakTanks = {
+      "type": "FeatureCollection",
+      "features": []
+    }
+    let sedTanks = {
+      "type": "FeatureCollection",
+      "features": []
+    }
 
+    this.state.projects.forEach(proj => {
+      let feature = {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": proj.location,
+          "properties": {name: proj.name, population: proj.population, description: proj.description, completed: proj.status}
+        }
+      } 
+
+      if(proj.project_type === 'Tapstand') {
+        taps.features.push(feature)
+      }
+      if(proj.project_type === 'Source') {
+        sources.features.push(feature)
+      }
+      if(proj.project_type === 'Break Pressure Tank') {
+        breakTanks.features.push(feature)
+      }
+      if(proj.project_type === 'Resevoir') {
+        resevoirs.features.push(feature)
+      }
+      if(proj.project_type === 'Sediment Tank') {
+        sedTanks.features.push(feature)
+      }
+
+    });
+    setTimeout(() => {
+      this.setState({taps, sources, breakTanks, resevoirs, sedTanks});
+
+    },500)
 
     mapboxgl.accessToken = accessToken;
     const map = new mapboxgl.Map({
@@ -73,6 +154,8 @@ class Map extends React.Component {
     });
     this.setState({map});
     map.addControl(new mapboxgl.NavigationControl())
+
+
     // const popup = new mapboxgl.Popup()
     map.on('click', function (e) {
       
@@ -173,6 +256,7 @@ class Map extends React.Component {
     }});
 
     let drawerStyle = {...this.state.drawerStyle}
+    console.log("OPENING DRAWER");
     drawerStyle.left = 0;
     this.setState({drawerStyle});
   }

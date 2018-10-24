@@ -164,3 +164,137 @@ h1, h2, h3, h4 {
   color: #fff;
   cursor: pointer;
 }
+
+.Admin {
+  padding: 24px;
+}
+
+.projects-header {
+  text-align: center;
+  color: #fff;
+  flex-grow: 1;
+}
+
+.MuiTableRow-root-255.MuiTableRow-hover-257 {
+  cursor: pointer;
+}
+
+.Project {
+  padding: 24px;
+}
+
+.all-projects {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+}
+
+.projects-header-container {
+  margin: 30px 0;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+
+.add-project {
+}
+
+.project-paper {
+  padding: 20px;
+}
+
+.project-page-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.project-page-header h1 {
+  flex-grow: 1;
+}
+
+.project-page-description {
+  font-size: 1.15em;
+}
+
+.photos-to-upload {
+  text-align: center;
+  padding: 20px;
+  color: #fff;
+}
+
+.number-of-photos {
+  font-size: 3em;
+  font-weight: 700;
+}
+
+.snack-div {
+  display: flex;
+  align-items: center;
+}
+
+.project-photo-container, .edit-project-photo-container {
+  margin: 8px 16px 8px 0px;
+  border-radius: 4px;
+  position: relative;
+}
+
+.project-photos-container {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+
+.edit-project-photo-container {
+  border: 2px solid #1a74fc;
+  cursor: pointer;
+}
+.edit-project-photo-container.removed {
+  border: 2px solid #ff3251;
+  cursor: pointer;
+}
+
+.photo-check, .photo-removed {
+  position: absolute;
+  width: 20px;
+  right: 3px;
+  top: 3px;
+}
+
+.photo-check:nth-child(2) {
+  fill: #1a74fc;
+}
+
+.photo-removed:nth-child(2) {
+  fill: #ff3251;
+}
+
+.project-table-row {
+  text-decoration: none;
+}
+.project-table-row:hover td {
+  color: #1a74fc;
+}
+
+.login-paper {
+  padding: 20px;
+}
+
+.login-paper Button {
+  margin-top: 10px;
+}
+
+.Navbar {
+  position: absolute;
+  padding: 10px;
+  top: 10px;
+  left: 10px;
+}
+
+main {
+  background: #506187;
+  padding-top: 100px;
+  min-height: 100vh;
+}
