@@ -12,7 +12,7 @@ const initialState = {
 }
 
 export default (state = initialState, action = {}) => {
-  console.log(action.formValues)
+  // console.log(action.formValues)
   switch(action.type){
     case FORM_UPDATE:
       return {

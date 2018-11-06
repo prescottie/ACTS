@@ -16,7 +16,7 @@ import CloudUploadIcon from '@material-ui/icons/CloudUpload';
 import Snackbar from '@material-ui/core/Snackbar';
 import Slide from '@material-ui/core/Slide';
 import Select from '@material-ui/core/Select';
-import { Redirect } from 'react-router-dom'
+import { Redirect } from 'react-router-dom';
 
 var db = firebase.firestore();
 
@@ -38,6 +38,8 @@ class New extends React.Component {
       formLat: "",
       formCompletionDate: "",
       formPhotos: [],
+      formSponsorPhoto: false,
+      formSponsor: "",
       formID: "",
       succesOpen: false,
       errorOpen: false,
@@ -74,6 +76,9 @@ class New extends React.Component {
       case "completion_date":
         return this.setState({formCompletionDate: e.target.value})
         break;
+      case "sponsor":
+        return this.setState({formSponsor: e.target.value})
+        break;
     }
   }
 
@@ -81,8 +86,16 @@ class New extends React.Component {
     this.setState({formPhotos: this.state.formPhotos.concat(Array.from(e.target.files))})
   }
 
+  handleSponsorPhotoChange = e => {
+    const { formSponsorPhoto, photosToDelete } = this.state;
+    if(typeof formSponsorPhoto === 'string') {
+      photosToDelete.push(formSponsorPhoto);
+    }
+    this.setState({formSponsorPhoto: e.target.files[0], photosToDelete})
+  }
+
   handleSave = () => {
-    const { formName, formDescription, formPhotos, formCompletionDate, formLon, formLat, formPopulation, formProjType, formID, projects, photosToDelete} = this.state;
+    const { formName, formDescription, formPhotos, formCompletionDate, formLon, formLat, formPopulation, formProjType, formID, projects, photosToDelete, formSponsor, formSponsorPhoto} = this.state;
       const storage = firebase.storage();
       const storageRef = storage.ref();
       const photosArray = [];
@@ -103,8 +116,9 @@ class New extends React.Component {
             location: [formLon, formLat],
             population: formPopulation,
             project_type: this.giveProjType(formProjType),
+            sponsor: formSponsor,
             photos: photosArray.length ? photosArray : null
-          })
+          }, {merge: true})
           .then(function(docRef) {
               console.log("Document written with ID: ", docRef);
               this.setState({
@@ -121,13 +135,16 @@ class New extends React.Component {
                 succesOpen: true,
                 Transition: TransitionUp,
               })
+              if(formSponsorPhoto) { 
+                this.props.sendSponsorPhoto(`${projects + 1}`, formSponsorPhoto)
+              }
               this.props.history.push(`/admin`)
           }.bind(this))
           .catch(function(error) {
               this.handleSnack(TransitionUp, "errorOpen");
               console.error("Error adding document: ", error);
           });
-        }, 500)
+        }, 700)
       })
   }
 
@@ -316,6 +333,36 @@ class New extends React.Component {
               </Paper>
             </Grid>
             <Grid item xs={2}></Grid>
+            <Grid item xs={2}></Grid>
+                  <Grid item xs={4}>
+                    <TextField
+                      id="standard-sponsor"
+                      label="Sponsor"
+                      fullWidth
+                      name='sponsor'
+                      onChange={this.handleChange}
+                      margin="normal"
+                      value={this.state.formSponsor}
+                    />
+                  </Grid>
+                  <Grid item xs={2}></Grid>
+                  <Grid item xs={2} >
+                    <input
+                      accept="image/*"
+                      style={{display:"none"}}
+                      id="contained-button-file-2"
+                      onChange={this.handleSponsorPhotoChange}
+                      name="sponsor_photo"
+                      type="file"
+                    />
+                    <label htmlFor="contained-button-file-2">
+                      <Button variant="contained" component="span" >
+                        <span style={{marginRight: "4px"}}>upload logo</span>  
+                        <CloudUploadIcon />
+                      </Button>
+                    </label>
+                  </Grid>
+                  <Grid item xs={2}></Grid>
           </Grid>
           <Grid container spacing={24} justify="flex-end" className="form-buttons">
             <Grid item >

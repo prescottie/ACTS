@@ -47,6 +47,8 @@ class Project extends React.Component {
       formLat: "",
       formCompletionDate: "",
       formPhotos: [],
+      formSponsorPhoto: false,
+      formSponsor: "",
       formID: "",
       uploadedPhotos: [],
       succesOpen: false,
@@ -68,6 +70,8 @@ class Project extends React.Component {
       formLon: project.location[0],
       formLat: project.location[1],
       formCompletionDate: moment.unix(project.completion_date.seconds).local().format("YYYY-MM-DD"),
+      formSponsor: project.sponsor ? project.sponsor : null,
+      formSponsorPhoto: project.sponsor_photo ? project.sponsor_photo : false,
       uploadedPhotos: project.photos ? this.state.uploadedPhotos.concat(project.photos) : [],
     })
   }
@@ -95,6 +99,9 @@ class Project extends React.Component {
       case "completion_date":
         return this.setState({formCompletionDate: e.target.value})
         break;
+      case "sponsor":
+        return this.setState({formSponsor: e.target.value})
+        break;
     }
   }
 
@@ -102,12 +109,21 @@ class Project extends React.Component {
     this.setState({formPhotos: this.state.formPhotos.concat(Array.from(e.target.files))})
   }
 
+  handleSponsorPhotoChange = e => {
+    const { formSponsorPhoto, photosToDelete } = this.state;
+    if(typeof formSponsorPhoto === 'string') {
+      photosToDelete.push(formSponsorPhoto);
+    }
+    this.setState({formSponsorPhoto: e.target.files[0], photosToDelete})
+  }
+
   handleSave = () => {
-    const { formName, formDescription, formPhotos, formCompletionDate, formLon, formLat, formPopulation, formProjType, formID, uploadedPhotos, photosToDelete} = this.state;
+    const { formName, formDescription, formPhotos, formCompletionDate, formLon, formLat, formPopulation, formProjType, formID, uploadedPhotos, photosToDelete, formSponsor, formSponsorPhoto} = this.state;
     this.props.deletePhotos(photosToDelete);
       const storage = firebase.storage();
       const storageRef = storage.ref();
       const photosArray = uploadedPhotos;
+      this
       return Promise.all(formPhotos.map(function(file) {
         const projectImageRef = storageRef.child(`project-${formID}-${file.name}`);
         return projectImageRef.put(file).then(function(snapshot) {
@@ -117,7 +133,6 @@ class Project extends React.Component {
         })
       })).then(()=> {
         setTimeout(()=> {
-          console.log(photosArray);
           db.collection("projects").doc(formID).set({
             name: formName,
             description: formDescription,
@@ -125,8 +140,9 @@ class Project extends React.Component {
             location: [formLon, formLat],
             population: formPopulation,
             project_type: this.giveProjType(formProjType),
+            sponsor: formSponsor ? formSponsor : null,
             photos: photosArray.length ? photosArray : null
-          })
+          }, {merge: true})
           .then(function(docRef) {
               console.log("Document written with ID: ", docRef);
               this.setState({
@@ -139,17 +155,22 @@ class Project extends React.Component {
                 formLon: '',
                 formLat: '',
                 formCompletionDate: '',
+                formSponsor: null,
+                formSponsorPhoto: false,
                 formPhotos: [],
                 succesOpen: true,
                 Transition: TransitionUp,
                 deleteDialog: false,
               })
+            if(formSponsorPhoto) {  
+              this.props.sendSponsorPhoto(formID, formSponsorPhoto)
+            }
           }.bind(this))
           .catch(function(error) {
               this.handleSnack(TransitionUp, "errorOpen");
               console.error("Error adding document: ", error);
           });
-        }, 400)
+        }, 700)
       })
   }
 
@@ -193,7 +214,6 @@ class Project extends React.Component {
   }
 
   handleSnack = (Transition, key) => () => {
-    console.log("HANDINGL SNACK", key)
     this.setState({ [key]: true, Transition });
   };
 
@@ -304,6 +324,11 @@ class Project extends React.Component {
                       <p><b>Location:</b> {data.location[0]}, {data.location[1]}</p>
                       <p><b>Population:</b> {data.population}</p>
                       <p><b>Completion Date:</b> {moment.unix(data.completion_date.seconds).local().format("LL")}</p>
+                      { data.sponsor ? 
+                        <p><b>Sponsor:</b> <p>{data.sponsor}</p> <img className="project-photo" src={data.sponsor_photo} width="150" height="150" /></p>
+                        :
+                        false
+                      } 
                       {data.photos && <div className="project-photos">
                         <h2>PHOTOS</h2>
                         <div className="project-photos-container">
@@ -446,6 +471,36 @@ class Project extends React.Component {
                       <h2>Photos to Upload</h2>
                       <span className="number-of-photos">{this.state.formPhotos.length}</span>
                     </Paper>
+                  </Grid>
+                  <Grid item xs={2}></Grid>
+                  <Grid item xs={2}></Grid>
+                  <Grid item xs={4}>
+                    <TextField
+                      id="standard-sponsor"
+                      label="Sponsor"
+                      fullWidth
+                      name='sponsor'
+                      onChange={this.handleChange}
+                      margin="normal"
+                      value={this.state.formSponsor}
+                    />
+                  </Grid>
+                  <Grid item xs={2}></Grid>
+                  <Grid item xs={2} >
+                    <input
+                      accept="image/*"
+                      style={{display:"none"}}
+                      id="contained-button-file-2"
+                      onChange={this.handleSponsorPhotoChange}
+                      name="sponsor_photo"
+                      type="file"
+                    />
+                    <label htmlFor="contained-button-file-2">
+                      <Button variant="contained" component="span" >
+                        <span style={{marginRight: "4px"}}>upload logo</span>  
+                        <CloudUploadIcon />
+                      </Button>
+                    </label>
                   </Grid>
                   <Grid item xs={2}></Grid>
                   <Grid item xs={2}></Grid>

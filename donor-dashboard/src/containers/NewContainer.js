@@ -1,10 +1,10 @@
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
-import Project from '../components/Project.js';
-import {fetchProject, deletePhotos, sendSponsorPhoto} from '../actions/project';
+import New from '../components/New.js';
+import { deletePhotos, sendSponsorPhoto} from '../actions/project';
 
 const mapStateToProps = ({project}) => ({
-
+  
 });
 
 const mapDispatchToProps = (dispatch) => bindActionCreators({
@@ -15,4 +15,4 @@ const mapDispatchToProps = (dispatch) => bindActionCreators({
 export default connect(
   mapStateToProps,
   mapDispatchToProps
-)(Project)
+)(New)
